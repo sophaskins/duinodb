@@ -11,4 +11,4 @@ common:
   price: 11.95
   link: https://www.adafruit.com/product/4884
   headers: unsoldered
-  extraFlash: 8 MB
+  externalFlash: 8 MB

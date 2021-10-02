@@ -63,7 +63,7 @@ SparkFun,RedBoard Artemis ATP,Apollo3,Cortex M4,384 KB,1 MB,Arduino Mega,3.3,$24
 SparkFun,RedBoard Artemis Nano,Apollo3,Cortex M4,384 KB,1 MB,Breadboardable,3.3, N/A ,,$14.95 ,https://www.sparkfun.com/products/15443, N/A ,
 SparkFun,RedBoard Plus,ATmega328P,ATmega,2 KB,32 KB,Arduino,5,$19.95 ,https://www.sparkfun.com/products/18158, N/A ,, N/A ,
 SparkFun,RedBoard Qwiic,ATmega328,ATmega,2 KB,32 KB,Arduino,5,$19.95 ,https://www.sparkfun.com/products/15123, N/A ,, N/A ,
-SparkFun,RedBoard Turbo,SAMD21,Cortex M0+,32 KB,4 MB,Arduino,3.3,$24.95 ,https://www.sparkfun.com/products/14812, N/A ,, N/A ,
+SparkFun,RedBoard Turbo,SAMD21,Cortex M0+,32 KB,256 KB,Arduino,3.3,$24.95 ,https://www.sparkfun.com/products/14812, N/A ,, N/A ,,4 MB
 SparkFun,SAMD21 Dev Breakout,SAMD21,Cortex M0+,32 KB,256 KB,Arduino,3.3, N/A ,,$27.50 ,https://www.sparkfun.com/products/13672, N/A ,
 SparkFun,SAMD21 Mini Breakout,SAMD21,Cortex M0+,32 KB,256 KB,Breadboardable,3.3, N/A ,,$20.95 ,https://www.sparkfun.com/products/13664, N/A ,
 PJRC,Teensy 2.0,ATmega32U4,ATmega,2.5 KB,32 KB,Teensy,5, N/A ,,$16.00 ,https://www.pjrc.com/store/teensy.html, N/A ,

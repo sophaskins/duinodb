@@ -8,7 +8,7 @@ common:
   sram: 264 KB
   flash: 0 B
   voltage: 3.3
-  extraFlash: 16 MB
+  externalFlash: 16 MB
 variations:
 - price: 25.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect-with-headers

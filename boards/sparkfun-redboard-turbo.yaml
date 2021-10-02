@@ -6,8 +6,9 @@ common:
   pinout: Arduino
   soc: samd21
   sram: 32 KB
-  flash: 4 MB
+  flash: 256 KB
   voltage: 3.3
   price: 24.95
   link: https://www.sparkfun.com/products/14812
   headers: presoldered-pin
+  externalFlash: 4 MB

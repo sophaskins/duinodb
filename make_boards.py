@@ -46,7 +46,7 @@ def make_board(row):
             data["common"][k] = v
 
     if "external flash" in row and row["external flash"]:
-        data["common"]["extraFlash"] = row["external flash"]
+        data["common"]["externalFlash"] = row["external flash"]
     return data
 
 rows = []
