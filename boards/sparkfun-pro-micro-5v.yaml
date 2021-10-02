@@ -1,13 +1,13 @@
+kind: Board
+name: Pro Micro 5V
+identifier: sparkfun-pro-micro-5v
+manufacturer: SparkFun
 common:
-  flash: 32 KB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/12640
   pinout: Breadboardable
-  price: 17.95
   soc: atmega32u4
   sram: 2.5 KB
-  voltage: '5'
-identifier: sparkfun-pro-micro-5v
-kind: Board
-manufacturer: SparkFun
-name: Pro Micro 5V
+  flash: 32 KB
+  voltage: 5.0
+  price: 17.95
+  link: https://www.sparkfun.com/products/12640
+  headers: unsoldered

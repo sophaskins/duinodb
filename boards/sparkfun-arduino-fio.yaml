@@ -1,13 +1,13 @@
+kind: Board
+name: Arduino Fio
+identifier: sparkfun-arduino-fio
+manufacturer: SparkFun
 common:
-  flash: 32 KB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/10116
   pinout: Breadboardable
-  price: 28.5
   soc: atmega328
   sram: 2 KB
-  voltage: '3.3'
-identifier: sparkfun-arduino-fio
-kind: Board
-manufacturer: SparkFun
-name: Arduino Fio
+  flash: 32 KB
+  voltage: 3.3
+  price: 28.5
+  link: https://www.sparkfun.com/products/10116
+  headers: unsoldered

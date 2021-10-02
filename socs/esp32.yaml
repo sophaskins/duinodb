@@ -1,4 +1,4 @@
-chipFamily: xtensa
-identifier: esp32
 kind: SoC
 name: ESP32
+identifier: esp32
+chipFamily: xtensa

@@ -1,17 +1,17 @@
+kind: Board
+name: Micro
+identifier: arduino-micro
+manufacturer: Arduino
 common:
-  flash: 32 KB
   pinout: Breadboardable
   soc: atmega32u4
   sram: 2.5 KB
-  voltage: '5'
-identifier: arduino-micro
-kind: Board
-manufacturer: Arduino
-name: Micro
+  flash: 32 KB
+  voltage: 5.0
 variations:
-- headers: presoldered-pin
+- price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-micro
-  price: 20.7
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-micro-without-headers
-  price: 18.4
+  headers: unsoldered

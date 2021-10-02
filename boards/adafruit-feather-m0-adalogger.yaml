@@ -1,13 +1,13 @@
+kind: Board
+name: Feather M0 Adalogger
+identifier: adafruit-feather-m0-adalogger
+manufacturer: Adafruit
 common:
-  flash: 256 KB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/2796
   pinout: Feather
-  price: 19.95
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: adafruit-feather-m0-adalogger
-kind: Board
-manufacturer: Adafruit
-name: Feather M0 Adalogger
+  flash: 256 KB
+  voltage: 3.3
+  price: 19.95
+  link: https://www.adafruit.com/product/2796
+  headers: unsoldered

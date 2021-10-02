@@ -1,13 +1,13 @@
+kind: Board
+name: Feather M4 Express
+identifier: adafruit-feather-m4-express
+manufacturer: Adafruit
 common:
-  flash: 512 KB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/3857
   pinout: Feather
-  price: 22.95
   soc: samd51
   sram: 192 KB
-  voltage: '3.3'
-identifier: adafruit-feather-m4-express
-kind: Board
-manufacturer: Adafruit
-name: Feather M4 Express
+  flash: 512 KB
+  voltage: 3.3
+  price: 22.95
+  link: https://www.adafruit.com/product/3857
+  headers: unsoldered

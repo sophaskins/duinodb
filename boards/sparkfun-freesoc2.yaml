@@ -1,13 +1,13 @@
+kind: Board
+name: FreeSoC2
+identifier: sparkfun-freesoc2
+manufacturer: SparkFun
 common:
-  flash: 256 KB
-  headers: presoldered-pin
-  link: https://www.sparkfun.com/products/13714
   pinout: Arduino Mega
-  price: 99.95
   soc: cy8c5888axi-lp096
   sram: 64 KB
-  voltage: '3.3'
-identifier: sparkfun-freesoc2
-kind: Board
-manufacturer: SparkFun
-name: FreeSoC2
+  flash: 256 KB
+  voltage: 3.3
+  price: 99.95
+  link: https://www.sparkfun.com/products/13714
+  headers: presoldered-pin

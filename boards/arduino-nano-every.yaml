@@ -1,17 +1,17 @@
+kind: Board
+name: Nano Every
+identifier: arduino-nano-every
+manufacturer: Arduino
 common:
-  flash: 48 KB
   pinout: Breadboardable
   soc: atmega4809
   sram: 6 KB
-  voltage: '5'
-identifier: arduino-nano-every
-kind: Board
-manufacturer: Arduino
-name: Nano Every
+  flash: 48 KB
+  voltage: 5.0
 variations:
-- headers: presoldered-pin
+- price: 13.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
-  price: 13.9
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 11.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-every
-  price: 11.9
+  headers: unsoldered

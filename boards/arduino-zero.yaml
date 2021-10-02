@@ -1,13 +1,13 @@
+kind: Board
+name: Zero
+identifier: arduino-zero
+manufacturer: Arduino
 common:
-  flash: 256 KB
-  headers: presoldered-pin
-  link: https://store-usa.arduino.cc/collections/boards/products/arduino-zero
   pinout: Arduino
-  price: 39.5
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: arduino-zero
-kind: Board
-manufacturer: Arduino
-name: Zero
+  flash: 256 KB
+  voltage: 3.3
+  price: 39.5
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-zero
+  headers: presoldered-pin

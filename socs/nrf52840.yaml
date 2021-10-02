@@ -1,4 +1,4 @@
-chipFamily: cortex-m4
-identifier: nrf52840
 kind: SoC
 name: nRF52840
+identifier: nrf52840
+chipFamily: cortex-m4

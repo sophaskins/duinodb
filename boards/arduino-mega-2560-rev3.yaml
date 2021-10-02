@@ -1,13 +1,13 @@
+kind: Board
+name: Mega 2560 Rev3
+identifier: arduino-mega-2560-rev3
+manufacturer: Arduino
 common:
-  flash: 256 KB
-  headers: presoldered-pin
-  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mega-2560-rev3
   pinout: Arduino Mega
-  price: 40.3
   soc: atmega2560
   sram: 8 KB
-  voltage: '5'
-identifier: arduino-mega-2560-rev3
-kind: Board
-manufacturer: Arduino
-name: Mega 2560 Rev3
+  flash: 256 KB
+  voltage: 5.0
+  price: 40.3
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mega-2560-rev3
+  headers: presoldered-pin

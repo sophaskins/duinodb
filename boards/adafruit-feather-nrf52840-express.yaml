@@ -1,13 +1,13 @@
+kind: Board
+name: Feather nRF52840 Express
+identifier: adafruit-feather-nrf52840-express
+manufacturer: Adafruit
 common:
-  flash: 1 MB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/4062
   pinout: Feather
-  price: 24.95
   soc: nrf52840
   sram: 256 KB
-  voltage: '3.3'
-identifier: adafruit-feather-nrf52840-express
-kind: Board
-manufacturer: Adafruit
-name: Feather nRF52840 Express
+  flash: 1 MB
+  voltage: 3.3
+  price: 24.95
+  link: https://www.adafruit.com/product/4062
+  headers: unsoldered

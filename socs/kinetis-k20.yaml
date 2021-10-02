@@ -1,4 +1,4 @@
-chipFamily: cortex-m4
-identifier: kinetis-k20
 kind: SoC
 name: Kinetis K20
+identifier: kinetis-k20
+chipFamily: cortex-m4

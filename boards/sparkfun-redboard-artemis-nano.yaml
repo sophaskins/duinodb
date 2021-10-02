@@ -1,13 +1,13 @@
+kind: Board
+name: RedBoard Artemis Nano
+identifier: sparkfun-redboard-artemis-nano
+manufacturer: SparkFun
 common:
-  flash: 1 MB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/15443
   pinout: Breadboardable
-  price: 14.95
   soc: apollo3
   sram: 384 KB
-  voltage: '3.3'
-identifier: sparkfun-redboard-artemis-nano
-kind: Board
-manufacturer: SparkFun
-name: RedBoard Artemis Nano
+  flash: 1 MB
+  voltage: 3.3
+  price: 14.95
+  link: https://www.sparkfun.com/products/15443
+  headers: unsoldered

@@ -1,13 +1,13 @@
+kind: Board
+name: Arduino Pro Mini 328 3.3V
+identifier: sparkfun-arduino-pro-mini-328-3.3v
+manufacturer: SparkFun
 common:
-  flash: 32 KB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/11114
   pinout: Breadboardable
-  price: 9.95
   soc: atmega328
   sram: 2 KB
-  voltage: '3.3'
-identifier: sparkfun-arduino-pro-mini-328-3.3v
-kind: Board
-manufacturer: SparkFun
-name: Arduino Pro Mini 328 3.3V
+  flash: 32 KB
+  voltage: 3.3
+  price: 9.95
+  link: https://www.sparkfun.com/products/11114
+  headers: unsoldered

@@ -1,13 +1,13 @@
+kind: Board
+name: RED-V RedBoard
+identifier: sparkfun-red-v-redboard
+manufacturer: SparkFun
 common:
-  flash: 32 MB
-  headers: presoldered-pin
-  link: https://www.sparkfun.com/products/15594
   pinout: Arduino
-  price: 39.95
   soc: fe310
   sram: 32 KB
-  voltage: '3.3'
-identifier: sparkfun-red-v-redboard
-kind: Board
-manufacturer: SparkFun
-name: RED-V RedBoard
+  flash: 32 MB
+  voltage: 3.3
+  price: 39.95
+  link: https://www.sparkfun.com/products/15594
+  headers: presoldered-pin

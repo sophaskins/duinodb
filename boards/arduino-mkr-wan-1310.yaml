@@ -1,13 +1,13 @@
+kind: Board
+name: MKR WAN 1310
+identifier: arduino-mkr-wan-1310
+manufacturer: Arduino
 common:
-  flash: 256 KB
-  headers: presoldered-pin
-  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-wan-1310
   pinout: Breadboardable
-  price: 38.0
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: arduino-mkr-wan-1310
-kind: Board
-manufacturer: Arduino
-name: MKR WAN 1310
+  flash: 256 KB
+  voltage: 3.3
+  price: 38.0
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-wan-1310
+  headers: presoldered-pin

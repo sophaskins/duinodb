@@ -1,13 +1,13 @@
+kind: Board
+name: Feather M0 Basic Proto
+identifier: adafruit-feather-m0-basic-proto
+manufacturer: Adafruit
 common:
-  flash: 256 KB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/2772
   pinout: Feather
-  price: 19.95
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: adafruit-feather-m0-basic-proto
-kind: Board
-manufacturer: Adafruit
-name: Feather M0 Basic Proto
+  flash: 256 KB
+  voltage: 3.3
+  price: 19.95
+  link: https://www.adafruit.com/product/2772
+  headers: unsoldered

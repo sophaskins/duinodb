@@ -1,17 +1,17 @@
+kind: Board
+name: Teensy 4.1
+identifier: pjrc-teensy-4.1
+manufacturer: PJRC
 common:
-  flash: 7936 KB
   pinout: Teensy++
   soc: imx-rt1060
   sram: 1024 KB
-  voltage: '3.3'
-identifier: pjrc-teensy-4.1
-kind: Board
-manufacturer: PJRC
-name: Teensy 4.1
+  flash: 7936 KB
+  voltage: 3.3
 variations:
-- headers: presoldered-pin
+- price: 30.85
   link: https://www.pjrc.com/store/teensy41_pins.html
-  price: 30.85
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 26.85
   link: https://www.pjrc.com/store/teensy41.html
-  price: 26.85
+  headers: unsoldered

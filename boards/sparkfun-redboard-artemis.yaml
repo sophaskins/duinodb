@@ -1,13 +1,13 @@
+kind: Board
+name: RedBoard Artemis
+identifier: sparkfun-redboard-artemis
+manufacturer: SparkFun
 common:
-  flash: 1 MB
-  headers: presoldered-pin
-  link: https://www.sparkfun.com/products/15444
   pinout: Arduino
-  price: 19.95
   soc: apollo3
   sram: 384 KB
-  voltage: '3.3'
-identifier: sparkfun-redboard-artemis
-kind: Board
-manufacturer: SparkFun
-name: RedBoard Artemis
+  flash: 1 MB
+  voltage: 3.3
+  price: 19.95
+  link: https://www.sparkfun.com/products/15444
+  headers: presoldered-pin

@@ -1,13 +1,13 @@
+kind: Board
+name: RED-V Thing Plus
+identifier: sparkfun-red-v-thing-plus
+manufacturer: SparkFun
 common:
-  flash: 32 MB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/15799
   pinout: Breadboardable
-  price: 29.95
   soc: fe310
   sram: 32 KB
-  voltage: '3.3'
-identifier: sparkfun-red-v-thing-plus
-kind: Board
-manufacturer: SparkFun
-name: RED-V Thing Plus
+  flash: 32 MB
+  voltage: 3.3
+  price: 29.95
+  link: https://www.sparkfun.com/products/15799
+  headers: unsoldered

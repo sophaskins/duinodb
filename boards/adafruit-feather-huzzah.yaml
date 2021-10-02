@@ -1,20 +1,20 @@
+kind: Board
+name: Feather HUZZAH
+identifier: adafruit-feather-huzzah
+manufacturer: Adafruit
 common:
-  flash: 4 MB
   pinout: Feather
   soc: esp8266
   sram: 112 KB
-  voltage: '3.3'
-identifier: adafruit-feather-huzzah
-kind: Board
-manufacturer: Adafruit
-name: Feather HUZZAH
+  flash: 4 MB
+  voltage: 3.3
 variations:
-- headers: presoldered-pin
+- price: 18.95
   link: https://www.adafruit.com/product/3046
-  price: 18.95
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 16.95
   link: https://www.adafruit.com/product/2821
-  price: 16.95
-- headers: presoldered-stacking
+  headers: unsoldered
+- price: 19.95
   link: https://www.adafruit.com/product/3213
-  price: 19.95
+  headers: presoldered-stacking

@@ -1,13 +1,13 @@
+kind: Board
+name: RedBoard Turbo
+identifier: sparkfun-redboard-turbo
+manufacturer: SparkFun
 common:
-  flash: 4 MB
-  headers: presoldered-pin
-  link: https://www.sparkfun.com/products/14812
   pinout: Arduino
-  price: 24.95
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: sparkfun-redboard-turbo
-kind: Board
-manufacturer: SparkFun
-name: RedBoard Turbo
+  flash: 4 MB
+  voltage: 3.3
+  price: 24.95
+  link: https://www.sparkfun.com/products/14812
+  headers: presoldered-pin

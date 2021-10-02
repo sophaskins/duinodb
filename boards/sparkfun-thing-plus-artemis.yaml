@@ -1,13 +1,13 @@
+kind: Board
+name: Thing Plus Artemis
+identifier: sparkfun-thing-plus-artemis
+manufacturer: SparkFun
 common:
-  flash: 1 MB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/15574
   pinout: Breadboardable
-  price: 20.95
   soc: apollo3
   sram: 384 KB
-  voltage: '3.3'
-identifier: sparkfun-thing-plus-artemis
-kind: Board
-manufacturer: SparkFun
-name: Thing Plus Artemis
+  flash: 1 MB
+  voltage: 3.3
+  price: 20.95
+  link: https://www.sparkfun.com/products/15574
+  headers: unsoldered

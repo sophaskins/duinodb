@@ -35,7 +35,7 @@ def make_board(row):
             "soc":row["SoC"].lower().replace(" ", "-").replace(".", ""),
             "sram": row["SRAM"],
             "flash": row["Flash ROM"],
-            "voltage": row["Voltage"],
+            "voltage": float(row["Voltage"]),
         },
     }
 
@@ -55,7 +55,7 @@ with open("./excel.csv", "r") as f:
 for r in rows:
     with open("./boards/{}.yaml".format(make_board_short_name(r)), "x") as f:
         data = make_board(r)
-        yaml.dump(data, f)
+        yaml.dump(data, f, sort_keys=False)
 
 for m in set([r["Manufacturer"] for r in rows]):
     short_name = m.lower().replace(" ", "-")
@@ -65,7 +65,7 @@ for m in set([r["Manufacturer"] for r in rows]):
         "identifier": short_name,
     }
     with open("./manufacturers/{}.yaml".format(short_name), "x") as f:
-        yaml.dump(data, f)
+        yaml.dump(data, f, sort_keys=False)
 
 for cf in set([r["Chip Family"] for r in rows]):
     short_name = cf.lower().replace("+", "plus").replace(" ", "-")
@@ -75,7 +75,7 @@ for cf in set([r["Chip Family"] for r in rows]):
             "name": cf,
             "identifier": short_name,
         }
-        yaml.dump(data, f)
+        yaml.dump(data, f, sort_keys=False)
 
 for soc in set([(r["Chip Family"], r["SoC"]) for r in rows]):
     short_cf = soc[0].lower().replace("+", "plus").replace(" ", "-")
@@ -87,5 +87,5 @@ for soc in set([(r["Chip Family"], r["SoC"]) for r in rows]):
             "identifier": short_soc,
             "chipFamily": short_cf,
         }
-        yaml.dump(data, f)
+        yaml.dump(data, f, sort_keys=False)
 

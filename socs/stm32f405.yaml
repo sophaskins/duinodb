@@ -1,4 +1,4 @@
-chipFamily: cortex-m4
-identifier: stm32f405
 kind: SoC
 name: STM32F405
+identifier: stm32f405
+chipFamily: cortex-m4

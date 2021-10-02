@@ -1,13 +1,13 @@
+kind: Board
+name: MKR Vidor 4000
+identifier: arduino-mkr-vidor-4000
+manufacturer: Arduino
 common:
-  flash: 256 KB
-  headers: presoldered-pin
-  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-vidor-4000
   pinout: Breadboardable
-  price: 72.4
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: arduino-mkr-vidor-4000
-kind: Board
-manufacturer: Arduino
-name: MKR Vidor 4000
+  flash: 256 KB
+  voltage: 3.3
+  price: 72.4
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-vidor-4000
+  headers: presoldered-pin

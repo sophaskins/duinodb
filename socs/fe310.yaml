@@ -1,4 +1,4 @@
-chipFamily: rv32i
-identifier: fe310
 kind: SoC
 name: FE310
+identifier: fe310
+chipFamily: rv32i

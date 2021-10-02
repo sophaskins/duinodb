@@ -1,4 +1,4 @@
-chipFamily: cortex-m7
-identifier: imx-rt1060
 kind: SoC
 name: i.MX RT1060
+identifier: imx-rt1060
+chipFamily: cortex-m7

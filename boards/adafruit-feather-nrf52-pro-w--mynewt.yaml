@@ -1,13 +1,13 @@
+kind: Board
+name: Feather nRF52 Pro w/ myNewt
+identifier: adafruit-feather-nrf52-pro-w--mynewt
+manufacturer: Adafruit
 common:
-  flash: 512 KB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/3574
   pinout: Feather
-  price: 27.5
   soc: nrf52832
   sram: 64 KB
-  voltage: '3.3'
-identifier: adafruit-feather-nrf52-pro-w--mynewt
-kind: Board
-manufacturer: Adafruit
-name: Feather nRF52 Pro w/ myNewt
+  flash: 512 KB
+  voltage: 3.3
+  price: 27.5
+  link: https://www.adafruit.com/product/3574
+  headers: unsoldered

@@ -1,13 +1,13 @@
+kind: Board
+name: SAMD21 Mini Breakout
+identifier: sparkfun-samd21-mini-breakout
+manufacturer: SparkFun
 common:
-  flash: 256 KB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/13664
   pinout: Breadboardable
-  price: 20.95
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: sparkfun-samd21-mini-breakout
-kind: Board
-manufacturer: SparkFun
-name: SAMD21 Mini Breakout
+  flash: 256 KB
+  voltage: 3.3
+  price: 20.95
+  link: https://www.sparkfun.com/products/13664
+  headers: unsoldered

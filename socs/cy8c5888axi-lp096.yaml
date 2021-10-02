@@ -1,4 +1,4 @@
-chipFamily: cortex-m3
-identifier: cy8c5888axi-lp096
 kind: SoC
 name: CY8C5888AXI-LP096
+identifier: cy8c5888axi-lp096
+chipFamily: cortex-m3

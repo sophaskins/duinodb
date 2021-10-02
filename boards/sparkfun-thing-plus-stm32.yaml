@@ -1,13 +1,13 @@
+kind: Board
+name: Thing Plus STM32
+identifier: sparkfun-thing-plus-stm32
+manufacturer: SparkFun
 common:
-  flash: 1 MB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/17712
   pinout: Breadboardable
-  price: 29.95
   soc: stm32f405
   sram: 192 KB
-  voltage: '3.3'
-identifier: sparkfun-thing-plus-stm32
-kind: Board
-manufacturer: SparkFun
-name: Thing Plus STM32
+  flash: 1 MB
+  voltage: 3.3
+  price: 29.95
+  link: https://www.sparkfun.com/products/17712
+  headers: unsoldered

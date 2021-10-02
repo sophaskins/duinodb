@@ -1,13 +1,13 @@
+kind: Board
+name: Thing Plus SAMD51
+identifier: sparkfun-thing-plus-samd51
+manufacturer: SparkFun
 common:
-  flash: 1 MB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/14713
   pinout: Breadboardable
-  price: 19.95
   soc: samd51
   sram: 256 KB
-  voltage: '3.3'
-identifier: sparkfun-thing-plus-samd51
-kind: Board
-manufacturer: SparkFun
-name: Thing Plus SAMD51
+  flash: 1 MB
+  voltage: 3.3
+  price: 19.95
+  link: https://www.sparkfun.com/products/14713
+  headers: unsoldered

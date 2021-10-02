@@ -1,17 +1,17 @@
+kind: Board
+name: Nano 33 BLE Sense
+identifier: arduino-nano-33-ble-sense
+manufacturer: Arduino
 common:
-  flash: 1 MB
   pinout: Breadboardable
   soc: nrf52840
   sram: 256 KB
-  voltage: '3.3'
-identifier: arduino-nano-33-ble-sense
-kind: Board
-manufacturer: Arduino
-name: Nano 33 BLE Sense
+  flash: 1 MB
+  voltage: 3.3
 variations:
-- headers: presoldered-pin
+- price: 33.34
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble-sense-with-headers
-  price: 33.34
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 31.1
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble-sense
-  price: 31.1
+  headers: unsoldered

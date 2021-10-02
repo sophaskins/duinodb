@@ -1,4 +1,4 @@
-chipFamily: cortex-m4
-identifier: kinetis-k64
 kind: SoC
 name: Kinetis K64
+identifier: kinetis-k64
+chipFamily: cortex-m4

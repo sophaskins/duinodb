@@ -1,17 +1,17 @@
+kind: Board
+name: Due
+identifier: arduino-due
+manufacturer: Arduino
 common:
-  flash: 512 KB
   pinout: Arduino Mega
   soc: sam3x8e
   sram: 96 KB
-  voltage: '3.3'
-identifier: arduino-due
-kind: Board
-manufacturer: Arduino
-name: Due
+  flash: 512 KB
+  voltage: 3.3
 variations:
-- headers: presoldered-pin
+- price: 40.3
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-due
-  price: 40.3
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 39.1
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-due-without-headers
-  price: 39.1
+  headers: unsoldered

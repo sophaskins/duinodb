@@ -1,13 +1,13 @@
+kind: Board
+name: Feather 328P
+identifier: adafruit-feather-328p
+manufacturer: Adafruit
 common:
-  flash: 32 KB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/3458
   pinout: Feather
-  price: 12.5
   soc: atmega328p
   sram: 2 KB
-  voltage: '3.3'
-identifier: adafruit-feather-328p
-kind: Board
-manufacturer: Adafruit
-name: Feather 328P
+  flash: 32 KB
+  voltage: 3.3
+  price: 12.5
+  link: https://www.adafruit.com/product/3458
+  headers: unsoldered

@@ -1,17 +1,17 @@
+kind: Board
+name: Nano 33 IoT
+identifier: arduino-nano-33-iot
+manufacturer: Arduino
 common:
-  flash: 256 KB
   pinout: Breadboardable
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: arduino-nano-33-iot
-kind: Board
-manufacturer: Arduino
-name: Nano 33 IoT
+  flash: 256 KB
+  voltage: 3.3
 variations:
-- headers: presoldered-pin
+- price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-iot-with-headers
-  price: 20.7
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-iot
-  price: 18.4
+  headers: unsoldered

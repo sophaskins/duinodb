@@ -1,4 +1,4 @@
-chipFamily: cortex-m3
-identifier: nrf9160
 kind: SoC
 name: nRF9160
+identifier: nrf9160
+chipFamily: cortex-m3

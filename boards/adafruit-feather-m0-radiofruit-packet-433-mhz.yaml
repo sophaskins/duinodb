@@ -1,13 +1,13 @@
+kind: Board
+name: Feather M0 RadioFruit Packet 433 MHz
+identifier: adafruit-feather-m0-radiofruit-packet-433-mhz
+manufacturer: Adafruit
 common:
-  flash: 256 KB
-  headers: unsoldered
-  link: https://www.adafruit.com/product/3177
   pinout: Feather
-  price: 24.95
   soc: samd21
   sram: 32 KB
-  voltage: '3.3'
-identifier: adafruit-feather-m0-radiofruit-packet-433-mhz
-kind: Board
-manufacturer: Adafruit
-name: Feather M0 RadioFruit Packet 433 MHz
+  flash: 256 KB
+  voltage: 3.3
+  price: 24.95
+  link: https://www.adafruit.com/product/3177
+  headers: unsoldered

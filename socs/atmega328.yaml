@@ -1,4 +1,4 @@
-chipFamily: atmega
-identifier: atmega328
 kind: SoC
 name: ATmega328
+identifier: atmega328
+chipFamily: atmega

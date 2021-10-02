@@ -1,17 +1,17 @@
+kind: Board
+name: Nano RP2040 Connect
+identifier: arduino-nano-rp2040-connect
+manufacturer: Arduino
 common:
-  flash: 16 MB
   pinout: Breadboardable
   soc: rp2040
   sram: 264 KB
-  voltage: '3.3'
-identifier: arduino-nano-rp2040-connect
-kind: Board
-manufacturer: Arduino
-name: Nano RP2040 Connect
+  flash: 16 MB
+  voltage: 3.3
 variations:
-- headers: presoldered-pin
+- price: 25.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect-with-headers
-  price: 25.5
-- headers: unsoldered
+  headers: presoldered-pin
+- price: 24.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect
-  price: 24.5
+  headers: unsoldered

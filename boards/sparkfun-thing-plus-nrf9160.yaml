@@ -1,13 +1,13 @@
+kind: Board
+name: Thing Plus nRF9160
+identifier: sparkfun-thing-plus-nrf9160
+manufacturer: SparkFun
 common:
-  flash: 1 MB
-  headers: unsoldered
-  link: https://www.sparkfun.com/products/17354
   pinout: Breadboardable
-  price: 129.95
   soc: nrf9160
   sram: 256 KB
-  voltage: '3.3'
-identifier: sparkfun-thing-plus-nrf9160
-kind: Board
-manufacturer: SparkFun
-name: Thing Plus nRF9160
+  flash: 1 MB
+  voltage: 3.3
+  price: 129.95
+  link: https://www.sparkfun.com/products/17354
+  headers: unsoldered
