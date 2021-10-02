@@ -47,6 +47,8 @@ def make_board(row):
 
     if "external flash" in row and row["external flash"]:
         data["common"]["externalFlash"] = row["external flash"]
+    if "psram" in row and row["psram"]:
+        data["common"]["psram"] = row["psram"]
     return data
 
 rows = []

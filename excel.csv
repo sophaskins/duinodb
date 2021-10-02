@@ -1,4 +1,4 @@
-Manufacturer,Model,SoC,Chip Family,SRAM,Flash ROM,Pinout,Voltage,Price,Link (presoldered headers),Price2,Link (no soldered headers),Price ,Link (presoldered stacking headers),external flash
+Manufacturer,Model,SoC,Chip Family,SRAM,Flash ROM,Pinout,Voltage,Price,Link (presoldered headers),Price2,Link (no soldered headers),Price ,Link (presoldered stacking headers),external flash,psram
 SparkFun,Arduino Fio,ATmega328,ATmega,2 KB,32 KB,Breadboardable,3.3, N/A ,,$28.50 ,https://www.sparkfun.com/products/10116, N/A ,
 SparkFun,Arduino Pro 328 3.3V,ATmega328,ATmega,2 KB,32 KB,Arduino,3.3, N/A ,,$16.95 ,https://www.sparkfun.com/products/10914, N/A ,
 SparkFun,Arduino Pro 328 5V,ATmega328,ATmega,2 KB,32 KB,Arduino,5, N/A ,,$16.95 ,https://www.sparkfun.com/products/10915, N/A ,
@@ -17,7 +17,7 @@ Adafruit,Feather 32u4 RadioFruit LoRa 900 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Fea
 Adafruit,Feather 32u4 RadioFruit Packet 433 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/3077, N/A ,
 Adafruit,Feather 32u4 RadioFruit Packet 900 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/3076, N/A ,
 Adafruit,Feather HUZZAH,ESP8266,Xtensa,112 KB,4 MB,Feather,3.3,$18.95 ,https://www.adafruit.com/product/3046,$16.95 ,https://www.adafruit.com/product/2821,$19.95 ,https://www.adafruit.com/product/3213
-Adafruit,Feather HUZZAH32,ESP32,Xtensa,520 KB,4 MB,Feather,3.3,$20.95 ,https://www.adafruit.com/product/3591,$19.95 ,https://www.adafruit.com/product/3405,$21.95 ,https://www.adafruit.com/product/3619
+Adafruit,Feather HUZZAH32,ESP32,Xtensa,520 KB,0 B,Feather,3.3,$20.95 ,https://www.adafruit.com/product/3591,$19.95 ,https://www.adafruit.com/product/3405,$21.95 ,https://www.adafruit.com/product/3619,4 MB
 Adafruit,Feather M0 Adalogger,SAMD21,Cortex M0+,32 KB,256 KB,Feather,3.3, N/A ,,$19.95 ,https://www.adafruit.com/product/2796, N/A ,
 Adafruit,Feather M0 Basic Proto,SAMD21,Cortex M0+,32 KB,256 KB,Feather,3.3, N/A ,,$19.95 ,https://www.adafruit.com/product/2772, N/A ,
 Adafruit,Feather M0 Bluefruit LE,SAMD21,Cortex M0+,32 KB,256 KB,Feather,3.3, N/A ,,$29.95 ,https://www.adafruit.com/product/2995, N/A ,
@@ -33,7 +33,7 @@ Adafruit,Feather nRF52 Pro w/ myNewt,nRF52832,Cortex M4,64 KB,512 KB,Feather,3.3
 Adafruit,Feather nRF52840 Express,nRF52840,Cortex M4,256 KB,1 MB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/4062, N/A ,
 Adafruit,Feather nRF52840 Sense,nRF52840,Cortex M4,256 KB,1 MB,Feather,3.3, N/A ,,$32.50 ,https://www.adafruit.com/product/4516, N/A ,
 Adafruit,Feather STM32F405 Express,STM32F405,Cortex M4,192 KB,1 MB,Feather,3.3, N/A ,,$39.95 ,https://www.adafruit.com/product/4382, N/A ,
-Adafruit,FeatherS2,ESP32,Xtensa,520 KB,16 MB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/4769, N/A ,
+Adafruit,FeatherS2,ESP32-S2,Xtensa,320 KB,0B,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/4769, N/A ,,16 MB,8MB
 SparkFun,Fio v3,ATmega32U4,ATmega,2.5 KB,32 KB,Breadboardable,3.3, N/A ,,$36.95 ,https://www.sparkfun.com/products/11520, N/A ,
 SparkFun,FreeSoC2,CY8C5888AXI-LP096,Cortex M3,64 KB,256 KB,Arduino Mega,3.3,$99.95 ,https://www.sparkfun.com/products/13714, N/A ,, N/A ,
 Arduino,Leonardo,ATmega32U4,ATmega,2.5 KB,32 KB,Arduino,5,$20.70 ,https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-with-headers,$18.40 ,https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-without-headers, N/A ,

@@ -4,10 +4,12 @@ identifier: adafruit-feathers2
 manufacturer: Adafruit
 common:
   pinout: Feather
-  soc: esp32
-  sram: 520 KB
-  flash: 16 MB
+  soc: esp32-s2
+  sram: 320 KB
+  flash: 0B
   voltage: 3.3
   price: 24.95
   link: https://www.adafruit.com/product/4769
   headers: unsoldered
+  externalFlash: 16 MB
+  psram: 8MB
