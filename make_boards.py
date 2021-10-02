@@ -44,6 +44,9 @@ def make_board(row):
     else:
         for k, v in variations[0].items():
             data["common"][k] = v
+
+    if "external flash" in row and row["external flash"]:
+        data["common"]["extraFlash"] = row["external flash"]
     return data
 
 rows = []
