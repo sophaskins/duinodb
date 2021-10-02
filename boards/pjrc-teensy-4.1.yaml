@@ -4,7 +4,7 @@ identifier: pjrc-teensy-4.1
 manufacturer: PJRC
 common:
   pinout: Teensy++
-  soc: imx-rt1060
+  soc: imxrt1062dvj6
   sram: 1024 KB
   flash: 7936 KB
   voltage: 3.3

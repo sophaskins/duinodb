@@ -1,0 +1,4 @@
+kind: SoC
+name: SAMD51J20
+identifier: samd51j20
+chipFamily: cortex-m4

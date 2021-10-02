@@ -4,7 +4,7 @@ identifier: adafruit-feather-m4-express
 manufacturer: Adafruit
 common:
   pinout: Feather
-  soc: samd51
+  soc: samd51j19
   sram: 192 KB
   flash: 512 KB
   voltage: 3.3

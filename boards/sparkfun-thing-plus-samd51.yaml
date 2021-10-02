@@ -4,7 +4,7 @@ identifier: sparkfun-thing-plus-samd51
 manufacturer: SparkFun
 common:
   pinout: Breadboardable
-  soc: samd51
+  soc: samd51j20
   sram: 256 KB
   flash: 1 MB
   voltage: 3.3
