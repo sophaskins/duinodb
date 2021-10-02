@@ -1,0 +1,4 @@
+chipFamily: atmega
+identifier: atmega4809
+kind: SoC
+name: ATmega4809

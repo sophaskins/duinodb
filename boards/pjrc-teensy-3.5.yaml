@@ -1,0 +1,17 @@
+common:
+  flash: 512 KB
+  pinout: Teensy++
+  soc: kinetis-k64
+  sram: 256 KB
+  voltage: '3.3'
+identifier: pjrc-teensy-3.5
+kind: Board
+manufacturer: PJRC
+name: Teensy 3.5
+variations:
+- headers: presoldered-pin
+  link: https://www.pjrc.com/store/teensy35_pins.html
+  price: 28.25
+- headers: unsoldered
+  link: https://www.pjrc.com/store/teensy35.html
+  price: 24.25

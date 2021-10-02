@@ -1,0 +1,4 @@
+chipFamily: cortex-m3
+identifier: sam3x8e
+kind: SoC
+name: SAM3X8E

@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: presoldered-pin
+  link: https://www.sparkfun.com/products/18158
+  pinout: Arduino
+  price: 19.95
+  soc: atmega328p
+  sram: 2 KB
+  voltage: '5'
+identifier: sparkfun-redboard-plus
+kind: Board
+manufacturer: SparkFun
+name: RedBoard Plus

@@ -1,0 +1,13 @@
+common:
+  flash: 512 KB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/3406
+  pinout: Feather
+  price: 24.95
+  soc: nrf52832
+  sram: 64 KB
+  voltage: '3.3'
+identifier: adafruit-feather-nrf52-bluefruit-le
+kind: Board
+manufacturer: Adafruit
+name: Feather nRF52 Bluefruit LE

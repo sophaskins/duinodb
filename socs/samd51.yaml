@@ -1,0 +1,4 @@
+chipFamily: cortex-m4
+identifier: samd51
+kind: SoC
+name: SAMD51

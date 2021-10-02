@@ -1,0 +1,4 @@
+chipFamily: cortex-m3
+identifier: stm32f205
+kind: SoC
+name: STM32F205

@@ -1,0 +1,4 @@
+chipFamily: atmega
+identifier: atmega32u4
+kind: SoC
+name: ATmega32U4

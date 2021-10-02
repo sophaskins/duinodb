@@ -1,0 +1,4 @@
+chipFamily: atmega
+identifier: atmega328p
+kind: SoC
+name: ATmega328P

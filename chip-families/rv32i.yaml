@@ -1,0 +1,3 @@
+identifier: rv32i
+kind: ChipFamily
+name: RV32I

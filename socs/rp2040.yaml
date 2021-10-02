@@ -1,0 +1,4 @@
+chipFamily: cortex-m0plus
+identifier: rp2040
+kind: SoC
+name: RP2040

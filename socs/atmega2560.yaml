@@ -1,0 +1,4 @@
+chipFamily: atmega
+identifier: atmega2560
+kind: SoC
+name: ATmega2560

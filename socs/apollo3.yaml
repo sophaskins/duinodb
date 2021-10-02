@@ -1,0 +1,4 @@
+chipFamily: cortex-m4
+identifier: apollo3
+kind: SoC
+name: Apollo3

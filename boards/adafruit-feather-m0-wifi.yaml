@@ -1,0 +1,20 @@
+common:
+  flash: 256 KB
+  pinout: Feather
+  soc: samd21
+  sram: 32 KB
+  voltage: '3.3'
+identifier: adafruit-feather-m0-wifi
+kind: Board
+manufacturer: Adafruit
+name: Feather M0 WiFi
+variations:
+- headers: presoldered-pin
+  link: https://www.adafruit.com/product/2598
+  price: 36.95
+- headers: unsoldered
+  link: https://www.adafruit.com/product/3010
+  price: 34.95
+- headers: presoldered-stacking
+  link: https://www.adafruit.com/product/3044
+  price: 39.95

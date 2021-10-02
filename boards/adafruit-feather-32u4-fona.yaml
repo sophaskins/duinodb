@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/3027
+  pinout: Feather
+  price: 44.95
+  soc: atmega32u4
+  sram: 2 KB
+  voltage: '3.3'
+identifier: adafruit-feather-32u4-fona
+kind: Board
+manufacturer: Adafruit
+name: Feather 32u4 FONA

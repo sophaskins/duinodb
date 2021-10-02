@@ -1,0 +1,13 @@
+common:
+  flash: 1 MB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/4516
+  pinout: Feather
+  price: 32.5
+  soc: nrf52840
+  sram: 256 KB
+  voltage: '3.3'
+identifier: adafruit-feather-nrf52840-sense
+kind: Board
+manufacturer: Adafruit
+name: Feather nRF52840 Sense

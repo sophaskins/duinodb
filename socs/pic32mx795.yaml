@@ -1,0 +1,4 @@
+chipFamily: mips-m4k
+identifier: pic32mx795
+kind: SoC
+name: PIC32MX795

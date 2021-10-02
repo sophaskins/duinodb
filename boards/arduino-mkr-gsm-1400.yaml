@@ -1,0 +1,13 @@
+common:
+  flash: 256 KB
+  headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-gsm-1400
+  pinout: Breadboardable
+  price: 68.9
+  soc: samd21
+  sram: 32 KB
+  voltage: '3.3'
+identifier: arduino-mkr-gsm-1400
+kind: Board
+manufacturer: Arduino
+name: MKR GSM 1400

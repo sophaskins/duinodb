@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: unsoldered
+  link: https://www.sparkfun.com/products/13614
+  pinout: Breadboardable
+  price: 33.5
+  soc: atmega32u4
+  sram: 2.5 KB
+  voltage: '3.3'
+identifier: sparkfun-qduino-mini
+kind: Board
+manufacturer: SparkFun
+name: Qduino Mini

@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: unsoldered
+  link: https://www.sparkfun.com/products/10915
+  pinout: Arduino
+  price: 16.95
+  soc: atmega328
+  sram: 2 KB
+  voltage: '5'
+identifier: sparkfun-arduino-pro-328-5v
+kind: Board
+manufacturer: SparkFun
+name: Arduino Pro 328 5V

@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: unsoldered
+  link: https://www.pjrc.com/store/teensy.html
+  pinout: Teensy
+  price: 16.0
+  soc: atmega32u4
+  sram: 2.5 KB
+  voltage: '5'
+identifier: pjrc-teensy-2.0
+kind: Board
+manufacturer: PJRC
+name: Teensy 2.0

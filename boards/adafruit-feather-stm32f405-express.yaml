@@ -1,0 +1,13 @@
+common:
+  flash: 1 MB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/4382
+  pinout: Feather
+  price: 39.95
+  soc: stm32f405
+  sram: 192 KB
+  voltage: '3.3'
+identifier: adafruit-feather-stm32f405-express
+kind: Board
+manufacturer: Adafruit
+name: Feather STM32F405 Express

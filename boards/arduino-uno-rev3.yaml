@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3
+  pinout: Arduino
+  price: 23.0
+  soc: atmega328p
+  sram: 2 KB
+  voltage: '5'
+identifier: arduino-uno-rev3
+kind: Board
+manufacturer: Arduino
+name: Uno Rev3

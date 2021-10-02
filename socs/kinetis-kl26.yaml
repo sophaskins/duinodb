@@ -1,0 +1,4 @@
+chipFamily: cortex-m0plus
+identifier: kinetis-kl26
+kind: SoC
+name: Kinetis KL26

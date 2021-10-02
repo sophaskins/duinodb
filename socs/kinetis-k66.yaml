@@ -1,0 +1,4 @@
+chipFamily: cortex-m4
+identifier: kinetis-k66
+kind: SoC
+name: Kinetis K66

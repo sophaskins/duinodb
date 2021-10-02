@@ -1,0 +1,17 @@
+common:
+  flash: 256 KB
+  pinout: Breadboardable
+  soc: samd21
+  sram: 32 KB
+  voltage: '3.3'
+identifier: arduino-mkr-wifi-1000
+kind: Board
+manufacturer: Arduino
+name: MKR Wifi 1000
+variations:
+- headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr1000-wifi-with-headers-mounted
+  price: 38.0
+- headers: unsoldered
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr1000-wifi
+  price: 36.8

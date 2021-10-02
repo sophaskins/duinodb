@@ -1,0 +1,17 @@
+common:
+  flash: 1 MB
+  pinout: Breadboardable
+  soc: nrf52840
+  sram: 256 KB
+  voltage: '3.3'
+identifier: arduino-nano-33-ble
+kind: Board
+manufacturer: Arduino
+name: Nano 33 BLE
+variations:
+- headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble-with-headers
+  price: 22.5
+- headers: unsoldered
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble
+  price: 20.2

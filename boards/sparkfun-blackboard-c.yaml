@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: presoldered-pin
+  link: https://www.sparkfun.com/products/16282
+  pinout: Arduino
+  price: 14.95
+  soc: atmega328p
+  sram: 2 KB
+  voltage: '5'
+identifier: sparkfun-blackboard-c
+kind: Board
+manufacturer: SparkFun
+name: BlackBoard C

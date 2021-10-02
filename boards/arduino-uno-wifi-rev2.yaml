@@ -1,0 +1,13 @@
+common:
+  flash: 48 KB
+  headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-uno-wifi-rev2
+  pinout: Arduino
+  price: 44.8
+  soc: atmega4809
+  sram: 6144 B
+  voltage: '5'
+identifier: arduino-uno-wifi-rev2
+kind: Board
+manufacturer: Arduino
+name: Uno Wifi Rev2

@@ -1,0 +1,13 @@
+common:
+  flash: 16 MB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/4769
+  pinout: Feather
+  price: 24.95
+  soc: esp32
+  sram: 520 KB
+  voltage: '3.3'
+identifier: adafruit-feathers2
+kind: Board
+manufacturer: Adafruit
+name: FeatherS2

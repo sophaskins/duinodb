@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano
+  pinout: Breadboardable
+  price: 20.7
+  soc: atmega328
+  sram: 2 KB
+  voltage: '5'
+identifier: arduino-nano
+kind: Board
+manufacturer: Arduino
+name: Nano

@@ -1,0 +1,13 @@
+common:
+  flash: 256 KB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/3403
+  pinout: Feather
+  price: 19.95
+  soc: samd21
+  sram: 32 KB
+  voltage: '3.3'
+identifier: adafruit-feather-m0-express
+kind: Board
+manufacturer: Adafruit
+name: Feather M0 Express

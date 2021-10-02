@@ -1,0 +1,13 @@
+common:
+  flash: 32 KB
+  headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-yun-rev-2
+  pinout: Arduino
+  price: 56.4
+  soc: atmega32u4
+  sram: 2.5 KB
+  voltage: '5'
+identifier: "arduino-y\xFAn-rev2"
+kind: Board
+manufacturer: Arduino
+name: "Y\xFAn Rev2"

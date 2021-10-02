@@ -1,0 +1,4 @@
+chipFamily: xtensa
+identifier: esp32
+kind: SoC
+name: ESP32

@@ -1,0 +1,13 @@
+common:
+  flash: 1 MB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/3056
+  pinout: Feather
+  price: 34.95
+  soc: stm32f205
+  sram: 128 KB
+  voltage: '3.3'
+identifier: adafruit-wiced-wifi-feather
+kind: Board
+manufacturer: Adafruit
+name: WICED WiFi Feather

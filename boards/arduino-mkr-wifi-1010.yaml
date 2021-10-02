@@ -1,0 +1,13 @@
+common:
+  flash: 256 KB
+  headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-wifi-1010
+  pinout: Breadboardable
+  price: 32.1
+  soc: samd21
+  sram: 32 KB
+  voltage: '3.3'
+identifier: arduino-mkr-wifi-1010
+kind: Board
+manufacturer: Arduino
+name: MKR Wifi 1010

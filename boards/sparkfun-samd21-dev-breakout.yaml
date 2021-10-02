@@ -1,0 +1,13 @@
+common:
+  flash: 256 KB
+  headers: unsoldered
+  link: https://www.sparkfun.com/products/13672
+  pinout: Arduino
+  price: 27.5
+  soc: samd21
+  sram: 32 KB
+  voltage: '3.3'
+identifier: sparkfun-samd21-dev-breakout
+kind: Board
+manufacturer: SparkFun
+name: SAMD21 Dev Breakout

@@ -1,0 +1,17 @@
+common:
+  flash: 32 KB
+  pinout: Arduino
+  soc: atmega32u4
+  sram: 2.5 KB
+  voltage: '5'
+identifier: arduino-leonardo
+kind: Board
+manufacturer: Arduino
+name: Leonardo
+variations:
+- headers: presoldered-pin
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-with-headers
+  price: 20.7
+- headers: unsoldered
+  link: https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-without-headers
+  price: 18.4

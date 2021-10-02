@@ -1,0 +1,4 @@
+chipFamily: cortex-m0plus
+identifier: samd21
+kind: SoC
+name: SAMD21

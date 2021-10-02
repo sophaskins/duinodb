@@ -1,0 +1,4 @@
+chipFamily: cortex-m4
+identifier: nrf52832
+kind: SoC
+name: nRF52832

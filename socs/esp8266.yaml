@@ -1,0 +1,4 @@
+chipFamily: xtensa
+identifier: esp8266
+kind: SoC
+name: ESP8266

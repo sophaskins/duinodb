@@ -1,0 +1,13 @@
+common:
+  flash: 512 KB
+  headers: unsoldered
+  link: https://www.sparkfun.com/products/9713
+  pinout: Breadboardable
+  price: 47.5
+  soc: pic32mx795
+  sram: 128 KB
+  voltage: '3.3'
+identifier: sparkfun-usb-32-bit-whacker
+kind: Board
+manufacturer: SparkFun
+name: USB 32-Bit Whacker

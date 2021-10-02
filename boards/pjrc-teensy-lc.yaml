@@ -1,0 +1,17 @@
+common:
+  flash: 64 KB
+  pinout: Teensy
+  soc: kinetis-kl26
+  sram: 8 KB
+  voltage: '3.3'
+identifier: pjrc-teensy-lc
+kind: Board
+manufacturer: PJRC
+name: Teensy LC
+variations:
+- headers: presoldered-pin
+  link: https://www.pjrc.com/store/teensylc_pins.html
+  price: 14.65
+- headers: unsoldered
+  link: https://www.pjrc.com/store/teensylc.html
+  price: 11.65

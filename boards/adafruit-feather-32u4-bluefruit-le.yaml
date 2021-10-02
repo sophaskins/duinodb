@@ -1,0 +1,20 @@
+common:
+  flash: 32 KB
+  pinout: Feather
+  soc: atmega32u4
+  sram: 2 KB
+  voltage: '3.3'
+identifier: adafruit-feather-32u4-bluefruit-le
+kind: Board
+manufacturer: Adafruit
+name: Feather 32u4 Bluefruit LE
+variations:
+- headers: presoldered-pin
+  link: https://www.adafruit.com/product/3379
+  price: 31.95
+- headers: unsoldered
+  link: https://www.adafruit.com/product/2829
+  price: 29.95
+- headers: presoldered-stacking
+  link: https://www.adafruit.com/product/3242
+  price: 32.95

@@ -1,0 +1,13 @@
+common:
+  flash: 8 MB
+  headers: unsoldered
+  link: https://www.adafruit.com/product/4884
+  pinout: Feather
+  price: 11.95
+  soc: rp2040
+  sram: 264 KB
+  voltage: '3.3'
+identifier: adafruit-feather-2040
+kind: Board
+manufacturer: Adafruit
+name: Feather 2040
