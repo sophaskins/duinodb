@@ -5,7 +5,7 @@ manufacturer: Adafruit
 common:
   pinout: Feather
   soc: atmega32u4
-  sram: 2 KB
+  sram: 2.5 KB
   flash: 32 KB
   voltage: 3.3
   price: 24.95

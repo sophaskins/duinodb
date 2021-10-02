@@ -5,7 +5,7 @@ manufacturer: Arduino
 common:
   pinout: Arduino
   soc: atmega4809
-  sram: 6144 B
+  sram: 6 KB
   flash: 48 KB
   voltage: 5.0
   price: 44.8

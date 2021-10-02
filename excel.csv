@@ -8,14 +8,14 @@ SparkFun,BlackBoard C,ATmega328P,ATmega,2 KB,32 KB,Arduino,5,$14.95 ,https://www
 Arduino,Due,SAM3X8E,Cortex M3,96 KB,512 KB,Arduino Mega,3.3,$40.30 ,https://store-usa.arduino.cc/collections/boards/products/arduino-due,$39.10 ,https://store-usa.arduino.cc/collections/boards/products/arduino-due-without-headers, N/A ,
 Adafruit,Feather 2040,RP2040,Cortex M0+,264 KB,8 MB,Feather,3.3, N/A ,,$11.95 ,https://www.adafruit.com/product/4884, N/A ,
 Adafruit,Feather 328P,ATmega328P,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$12.50 ,https://www.adafruit.com/product/3458, N/A ,
-Adafruit,Feather 32u4 Adalogger,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$21.95 ,https://www.adafruit.com/product/2795, N/A ,
-Adafruit,Feather 32u4 Basic Proto,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$19.95 ,https://www.adafruit.com/product/2771, N/A ,
-Adafruit,Feather 32u4 Bluefruit LE,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3,$31.95 ,https://www.adafruit.com/product/3379,$29.95 ,https://www.adafruit.com/product/2829,$32.95 ,https://www.adafruit.com/product/3242
-Adafruit,Feather 32u4 FONA,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$44.95 ,https://www.adafruit.com/product/3027,,
-Adafruit,Feather 32u4 RadioFruit LoRa 433 MHz,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$34.95 ,https://www.adafruit.com/product/3079, N/A ,
-Adafruit,Feather 32u4 RadioFruit LoRa 900 MHz,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$34.95 ,https://www.adafruit.com/product/3078, N/A ,
-Adafruit,Feather 32u4 RadioFruit Packet 433 MHz,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/3077, N/A ,
-Adafruit,Feather 32u4 RadioFruit Packet 900 MHz,ATmega32U4,ATmega,2 KB,32 KB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/3076, N/A ,
+Adafruit,Feather 32u4 Adalogger,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$21.95 ,https://www.adafruit.com/product/2795, N/A ,
+Adafruit,Feather 32u4 Basic Proto,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$19.95 ,https://www.adafruit.com/product/2771, N/A ,
+Adafruit,Feather 32u4 Bluefruit LE,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3,$31.95 ,https://www.adafruit.com/product/3379,$29.95 ,https://www.adafruit.com/product/2829,$32.95 ,https://www.adafruit.com/product/3242
+Adafruit,Feather 32u4 FONA,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$44.95 ,https://www.adafruit.com/product/3027,,
+Adafruit,Feather 32u4 RadioFruit LoRa 433 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$34.95 ,https://www.adafruit.com/product/3079, N/A ,
+Adafruit,Feather 32u4 RadioFruit LoRa 900 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$34.95 ,https://www.adafruit.com/product/3078, N/A ,
+Adafruit,Feather 32u4 RadioFruit Packet 433 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/3077, N/A ,
+Adafruit,Feather 32u4 RadioFruit Packet 900 MHz,ATmega32U4,ATmega,2.5 KB,32 KB,Feather,3.3, N/A ,,$24.95 ,https://www.adafruit.com/product/3076, N/A ,
 Adafruit,Feather HUZZAH,ESP8266,Xtensa,112 KB,4 MB,Feather,3.3,$18.95 ,https://www.adafruit.com/product/3046,$16.95 ,https://www.adafruit.com/product/2821,$19.95 ,https://www.adafruit.com/product/3213
 Adafruit,Feather HUZZAH32,ESP32,Xtensa,520 KB,4 MB,Feather,3.3,$20.95 ,https://www.adafruit.com/product/3591,$19.95 ,https://www.adafruit.com/product/3405,$21.95 ,https://www.adafruit.com/product/3619
 Adafruit,Feather M0 Adalogger,SAMD21,Cortex M0+,32 KB,256 KB,Feather,3.3, N/A ,,$19.95 ,https://www.adafruit.com/product/2796, N/A ,
@@ -79,7 +79,7 @@ SparkFun,Thing Plus SAMD51,SAMD51,Cortex M4,256 KB,1 MB,Breadboardable,3.3, N/A 
 SparkFun,Thing Plus STM32,STM32F405,Cortex M4,192 KB,1 MB,Breadboardable,3.3, N/A ,,$29.95 ,https://www.sparkfun.com/products/17712, N/A ,
 Arduino,Uno Rev3,ATmega328P,ATmega,2 KB,32 KB,Arduino,5,$23.00 ,https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3, N/A ,, N/A ,
 Arduino,Uno Rev3 SMD,ATmega328P,ATmega,2 KB,32 KB,Arduino,5,$21.90 ,https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3-smd, N/A ,, N/A ,
-Arduino,Uno Wifi Rev2,ATmega4809,ATmega,6144 B,48 KB,Arduino,5,$44.80 ,https://store-usa.arduino.cc/collections/boards/products/arduino-uno-wifi-rev2, N/A ,, N/A ,
+Arduino,Uno Wifi Rev2,ATmega4809,ATmega,6 KB,48 KB,Arduino,5,$44.80 ,https://store-usa.arduino.cc/collections/boards/products/arduino-uno-wifi-rev2, N/A ,, N/A ,
 SparkFun,USB 32-Bit Whacker,PIC32MX795,MIPS M4K,128 KB,512 KB,Breadboardable,3.3, N/A ,,$47.50 ,https://www.sparkfun.com/products/9713, N/A ,
 Adafruit,WICED WiFi Feather,STM32F205,Cortex M3,128 KB,1 MB,Feather,3.3, N/A ,,$34.95 ,https://www.adafruit.com/product/3056, N/A ,
 Arduino,Yún Rev2,ATmega32U4,ATmega,2.5 KB,32 KB,Arduino,5,$56.40 ,https://store-usa.arduino.cc/collections/boards/products/arduino-yun-rev-2, N/A ,, N/A ,
