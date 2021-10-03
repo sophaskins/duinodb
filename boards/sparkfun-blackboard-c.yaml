@@ -8,4 +8,4 @@ common:
   voltage: 5.0
   price: 14.95
   link: https://www.sparkfun.com/products/16282
-  headers: presoldered-pin
+  headers: presoldered-socket
