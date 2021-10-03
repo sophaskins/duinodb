@@ -5,8 +5,6 @@ manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega4809
-  sram: 6 KB
-  flash: 48 KB
   voltage: 5.0
 variations:
 - price: 13.9

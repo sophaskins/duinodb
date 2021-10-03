@@ -5,8 +5,6 @@ manufacturer: arduino
 common:
   pinout: Arduino
   soc: atmega328p
-  sram: 2 KB
-  flash: 32 KB
   voltage: 5.0
   price: 21.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3-smd

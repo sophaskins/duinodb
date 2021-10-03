@@ -5,8 +5,6 @@ manufacturer: adafruit
 common:
   pinout: Feather
   soc: esp32
-  sram: 520 KB
-  flash: 0 B
   voltage: 3.3
   externalFlash: 4 MB
 variations:

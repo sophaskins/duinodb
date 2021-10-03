@@ -2,3 +2,6 @@ kind: SoC
 name: nRF9160
 identifier: nrf9160
 chipFamily: cortex-m3
+common:
+  sram: 256 KB
+  flash: 1 MB

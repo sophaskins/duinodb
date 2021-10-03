@@ -5,8 +5,6 @@ manufacturer: adafruit
 common:
   pinout: Feather
   soc: samd51j19
-  sram: 192 KB
-  flash: 512 KB
   voltage: 3.3
   price: 22.95
   link: https://www.adafruit.com/product/3857

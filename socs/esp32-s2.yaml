@@ -2,3 +2,6 @@ kind: SoC
 name: ESP32-S2
 identifier: esp32-s2
 chipFamily: xtensa
+common:
+  sram: 320 KB
+  flash: 0B

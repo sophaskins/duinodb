@@ -5,8 +5,6 @@ manufacturer: arduino
 common:
   pinout: Arduino Mega
   soc: sam3x8e
-  sram: 96 KB
-  flash: 512 KB
   voltage: 3.3
 variations:
 - price: 40.3

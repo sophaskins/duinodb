@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: atmega328
-  sram: 2 KB
-  flash: 32 KB
   voltage: 5.0
   price: 19.95
   link: https://www.sparkfun.com/products/15123

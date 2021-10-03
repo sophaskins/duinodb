@@ -2,3 +2,6 @@ kind: SoC
 name: Kinetis K20
 identifier: kinetis-k20
 chipFamily: cortex-m4
+common:
+  sram: 64 KB
+  flash: 256 KB

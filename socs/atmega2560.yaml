@@ -2,3 +2,6 @@ kind: SoC
 name: ATmega2560
 identifier: atmega2560
 chipFamily: atmega
+common:
+  sram: 8 KB
+  flash: 256 KB

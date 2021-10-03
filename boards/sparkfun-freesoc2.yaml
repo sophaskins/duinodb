@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Arduino Mega
   soc: cy8c5888axi-lp096
-  sram: 64 KB
-  flash: 256 KB
   voltage: 3.3
   price: 99.95
   link: https://www.sparkfun.com/products/13714

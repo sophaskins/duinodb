@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: samd21
-  sram: 32 KB
-  flash: 256 KB
   voltage: 3.3
   price: 20.95
   link: https://www.sparkfun.com/products/13664

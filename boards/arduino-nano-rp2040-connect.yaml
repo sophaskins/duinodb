@@ -5,8 +5,6 @@ manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: rp2040
-  sram: 264 KB
-  flash: 0 B
   voltage: 3.3
   externalFlash: 16 MB
 variations:

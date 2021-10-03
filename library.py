@@ -26,12 +26,17 @@ def load_flattened_socs():
     socs = load_socs()
     flattened = {}
     for _, s in socs.items():
+        base = s.copy()
+        common = {}
+        if "common" in s:
+            common = s["common"].copy()
+            del base["common"]
+
         if "variations" in s:
-            base = s.copy()
             del base["variations"]
             for v in s["variations"]:
-                flattened[v["identifier"]] = base | v
+                flattened[v["identifier"]] = (base | common) | v
         else:
-            flattened[s["identifier"]] = s
+            flattened[s["identifier"]] = base | common
 
     return flattened

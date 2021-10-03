@@ -2,3 +2,6 @@ kind: SoC
 name: ATmega4809
 identifier: atmega4809
 chipFamily: atmega
+common:
+  sram: 6 KB
+  flash: 48 KB

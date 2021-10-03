@@ -2,3 +2,6 @@ kind: SoC
 name: ESP8266
 identifier: esp8266
 chipFamily: xtensa
+common:
+  sram: 112 KB
+  flash: 4 MB

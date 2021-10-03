@@ -2,3 +2,6 @@ kind: SoC
 name: nRF52832
 identifier: nrf52832
 chipFamily: cortex-m4
+common:
+  sram: 64 KB
+  flash: 512 KB

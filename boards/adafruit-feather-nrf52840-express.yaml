@@ -5,8 +5,6 @@ manufacturer: adafruit
 common:
   pinout: Feather
   soc: nrf52840
-  sram: 256 KB
-  flash: 1 MB
   voltage: 3.3
   price: 24.95
   link: https://www.adafruit.com/product/4062

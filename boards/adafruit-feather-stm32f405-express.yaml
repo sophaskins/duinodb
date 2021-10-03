@@ -5,8 +5,6 @@ manufacturer: adafruit
 common:
   pinout: Feather
   soc: stm32f405
-  sram: 192 KB
-  flash: 1 MB
   voltage: 3.3
   price: 39.95
   link: https://www.adafruit.com/product/4382

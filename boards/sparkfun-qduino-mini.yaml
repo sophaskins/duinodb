@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: atmega32u4
-  sram: 2.5 KB
-  flash: 32 KB
   voltage: 3.3
   price: 33.5
   link: https://www.sparkfun.com/products/13614

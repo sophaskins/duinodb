@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Arduino Mega
   soc: apollo3
-  sram: 384 KB
-  flash: 1 MB
   voltage: 3.3
   price: 24.95
   link: https://www.sparkfun.com/products/15442

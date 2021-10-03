@@ -5,8 +5,6 @@ manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: samd21
-  sram: 32 KB
-  flash: 256 KB
   voltage: 3.3
 variations:
 - price: 20.7

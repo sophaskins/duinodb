@@ -2,3 +2,6 @@ kind: SoC
 name: FE310
 identifier: fe310
 chipFamily: rv32i
+common:
+  sram: 32 KB
+  flash: 32 MB

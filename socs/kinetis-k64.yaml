@@ -2,3 +2,6 @@ kind: SoC
 name: Kinetis K64
 identifier: kinetis-k64
 chipFamily: cortex-m4
+common:
+  sram: 256 KB
+  flash: 512 KB

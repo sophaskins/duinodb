@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: stm32f405
-  sram: 192 KB
-  flash: 1 MB
   voltage: 3.3
   price: 29.95
   link: https://www.sparkfun.com/products/17712

@@ -5,8 +5,6 @@ manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega328
-  sram: 2 KB
-  flash: 32 KB
   voltage: 5.0
   price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano

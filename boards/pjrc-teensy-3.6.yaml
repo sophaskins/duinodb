@@ -5,8 +5,6 @@ manufacturer: pjrc
 common:
   pinout: Teensy++
   soc: kinetis-k66
-  sram: 256 KB
-  flash: 1024 KB
   voltage: 3.3
 variations:
 - price: 33.25

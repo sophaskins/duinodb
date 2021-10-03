@@ -2,3 +2,6 @@ kind: SoC
 name: ATmega328
 identifier: atmega328
 chipFamily: atmega
+common:
+  sram: 2 KB
+  flash: 32 KB

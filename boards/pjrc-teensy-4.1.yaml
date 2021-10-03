@@ -5,8 +5,6 @@ manufacturer: pjrc
 common:
   pinout: Teensy++
   soc: imxrt1062dvj6
-  sram: 1024 KB
-  flash: 7936 KB
   voltage: 3.3
 variations:
 - price: 30.85

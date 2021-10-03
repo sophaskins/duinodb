@@ -5,8 +5,6 @@ manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: pic32mx795
-  sram: 128 KB
-  flash: 512 KB
   voltage: 3.3
   price: 47.5
   link: https://www.sparkfun.com/products/9713
