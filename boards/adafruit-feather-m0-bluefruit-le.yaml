@@ -1,7 +1,7 @@
 kind: Board
 name: Feather M0 Bluefruit LE
 identifier: adafruit-feather-m0-bluefruit-le
-manufacturer: Adafruit
+manufacturer: adafruit
 common:
   pinout: Feather
   soc: samd21

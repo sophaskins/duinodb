@@ -1,7 +1,7 @@
 kind: Board
 name: Uno Wifi Rev2
 identifier: arduino-uno-wifi-rev2
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Arduino
   soc: atmega4809

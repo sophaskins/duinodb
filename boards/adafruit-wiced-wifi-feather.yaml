@@ -1,7 +1,7 @@
 kind: Board
 name: WICED WiFi Feather
 identifier: adafruit-wiced-wifi-feather
-manufacturer: Adafruit
+manufacturer: adafruit
 common:
   pinout: Feather
   soc: stm32f205

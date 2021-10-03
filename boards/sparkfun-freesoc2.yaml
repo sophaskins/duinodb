@@ -1,7 +1,7 @@
 kind: Board
 name: FreeSoC2
 identifier: sparkfun-freesoc2
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino Mega
   soc: cy8c5888axi-lp096

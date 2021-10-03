@@ -1,7 +1,7 @@
 kind: Board
 name: Nano
 identifier: arduino-nano
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega328

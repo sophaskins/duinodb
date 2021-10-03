@@ -1,7 +1,7 @@
 kind: Board
 name: Pro Micro 3.3V
 identifier: sparkfun-pro-micro-3.3v
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: atmega32u4

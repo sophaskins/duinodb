@@ -1,7 +1,7 @@
 kind: Board
 name: Thing Plus nRF9160
 identifier: sparkfun-thing-plus-nrf9160
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: nrf9160

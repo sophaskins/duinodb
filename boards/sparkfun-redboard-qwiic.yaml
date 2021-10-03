@@ -1,7 +1,7 @@
 kind: Board
 name: RedBoard Qwiic
 identifier: sparkfun-redboard-qwiic
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: atmega328

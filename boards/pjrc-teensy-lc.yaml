@@ -1,7 +1,7 @@
 kind: Board
 name: Teensy LC
 identifier: pjrc-teensy-lc
-manufacturer: PJRC
+manufacturer: pjrc
 common:
   pinout: Teensy
   soc: kinetis-kl26

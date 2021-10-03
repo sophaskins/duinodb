@@ -1,0 +1,9 @@
+kind: SoC
+name: SAM D51
+identifier: samd51
+chipFamily: cortex-m4
+variations:
+- name: SAMD51J19
+  identifier: samd51j19
+- name: SAMD51J20
+  identifier: samd51j20

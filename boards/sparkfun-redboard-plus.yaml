@@ -1,7 +1,7 @@
 kind: Board
 name: RedBoard Plus
 identifier: sparkfun-redboard-plus
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: atmega328p

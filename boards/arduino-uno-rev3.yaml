@@ -1,7 +1,7 @@
 kind: Board
 name: Uno Rev3
 identifier: arduino-uno-rev3
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Arduino
   soc: atmega328p

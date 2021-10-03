@@ -1,7 +1,7 @@
 kind: Board
 name: RedBoard Artemis Nano
 identifier: sparkfun-redboard-artemis-nano
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: apollo3

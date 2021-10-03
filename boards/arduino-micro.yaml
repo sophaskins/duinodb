@@ -1,7 +1,7 @@
 kind: Board
 name: Micro
 identifier: arduino-micro
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega32u4

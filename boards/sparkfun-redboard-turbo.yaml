@@ -1,7 +1,7 @@
 kind: Board
 name: RedBoard Turbo
 identifier: sparkfun-redboard-turbo
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: samd21

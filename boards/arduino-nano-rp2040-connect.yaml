@@ -1,7 +1,7 @@
 kind: Board
 name: Nano RP2040 Connect
 identifier: arduino-nano-rp2040-connect
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: rp2040

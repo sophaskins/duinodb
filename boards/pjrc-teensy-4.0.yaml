@@ -1,7 +1,7 @@
 kind: Board
 name: Teensy 4.0
 identifier: pjrc-teensy-4.0
-manufacturer: PJRC
+manufacturer: pjrc
 common:
   pinout: Teensy
   soc: imxrt1062dvl6

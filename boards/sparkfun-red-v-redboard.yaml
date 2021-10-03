@@ -1,7 +1,7 @@
 kind: Board
 name: RED-V RedBoard
 identifier: sparkfun-red-v-redboard
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: fe310

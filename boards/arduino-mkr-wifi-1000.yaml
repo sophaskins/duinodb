@@ -1,7 +1,7 @@
 kind: Board
 name: MKR Wifi 1000
 identifier: arduino-mkr-wifi-1000
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: samd21

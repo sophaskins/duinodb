@@ -1,7 +1,7 @@
 kind: Board
 name: Feather M0 RadioFruit Packet 433 MHz
 identifier: adafruit-feather-m0-radiofruit-packet-433-mhz
-manufacturer: Adafruit
+manufacturer: adafruit
 common:
   pinout: Feather
   soc: samd21

@@ -1,7 +1,7 @@
 kind: Board
 name: BlackBoard C
 identifier: sparkfun-blackboard-c
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: atmega328p

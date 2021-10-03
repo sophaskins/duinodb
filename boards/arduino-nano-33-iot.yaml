@@ -1,7 +1,7 @@
 kind: Board
 name: Nano 33 IoT
 identifier: arduino-nano-33-iot
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: samd21

@@ -1,7 +1,7 @@
 kind: Board
 name: Qwiic Pro Micro
 identifier: sparkfun-qwiic-pro-micro
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: atmega32u4

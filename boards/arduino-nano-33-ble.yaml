@@ -1,7 +1,7 @@
 kind: Board
 name: Nano 33 BLE
 identifier: arduino-nano-33-ble
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: nrf52840

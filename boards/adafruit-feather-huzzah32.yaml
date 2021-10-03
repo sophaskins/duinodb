@@ -1,7 +1,7 @@
 kind: Board
 name: Feather HUZZAH32
 identifier: adafruit-feather-huzzah32
-manufacturer: Adafruit
+manufacturer: adafruit
 common:
   pinout: Feather
   soc: esp32

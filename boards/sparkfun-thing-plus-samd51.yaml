@@ -1,7 +1,7 @@
 kind: Board
 name: Thing Plus SAMD51
 identifier: sparkfun-thing-plus-samd51
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: samd51j20

@@ -1,7 +1,7 @@
 kind: Board
 name: Zero
 identifier: arduino-zero
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Arduino
   soc: samd21

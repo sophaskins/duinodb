@@ -1,7 +1,7 @@
 kind: Board
 name: USB 32-Bit Whacker
 identifier: sparkfun-usb-32-bit-whacker
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Breadboardable
   soc: pic32mx795

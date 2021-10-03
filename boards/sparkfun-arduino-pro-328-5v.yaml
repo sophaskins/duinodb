@@ -1,7 +1,7 @@
 kind: Board
 name: Arduino Pro 328 5V
 identifier: sparkfun-arduino-pro-328-5v
-manufacturer: SparkFun
+manufacturer: sparkfun
 common:
   pinout: Arduino
   soc: atmega328

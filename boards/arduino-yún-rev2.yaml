@@ -1,7 +1,7 @@
 kind: Board
 name: "Y\xFAn Rev2"
 identifier: "arduino-y\xFAn-rev2"
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Arduino
   soc: atmega32u4

@@ -1,7 +1,7 @@
 kind: Board
 name: Feather M0 Express
 identifier: adafruit-feather-m0-express
-manufacturer: Adafruit
+manufacturer: adafruit
 common:
   pinout: Feather
   soc: samd21

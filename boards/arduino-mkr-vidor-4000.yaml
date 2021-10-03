@@ -1,7 +1,7 @@
 kind: Board
 name: MKR Vidor 4000
 identifier: arduino-mkr-vidor-4000
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: samd21

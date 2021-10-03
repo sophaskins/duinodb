@@ -1,7 +1,7 @@
 kind: Board
 name: Due
 identifier: arduino-due
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Arduino Mega
   soc: sam3x8e

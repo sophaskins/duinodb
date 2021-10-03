@@ -1,7 +1,7 @@
 kind: Board
 name: Teensy 3.2
 identifier: pjrc-teensy-3.2
-manufacturer: PJRC
+manufacturer: pjrc
 common:
   pinout: Teensy
   soc: kinetis-k20

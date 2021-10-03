@@ -1,7 +1,7 @@
 kind: Board
 name: Teensy 2.0
 identifier: pjrc-teensy-2.0
-manufacturer: PJRC
+manufacturer: pjrc
 common:
   pinout: Teensy
   soc: atmega32u4

@@ -1,7 +1,7 @@
 kind: Board
 name: Nano Every
 identifier: arduino-nano-every
-manufacturer: Arduino
+manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega4809
