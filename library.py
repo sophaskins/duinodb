@@ -42,7 +42,7 @@ def load_flattened(kind):
     return flattened
 
 def load_flattened_socs():
-    load_flattened("socs")
+    return load_flattened("socs")
 
 def load_flattened_boards():
-    load_flattened("boards")
+    return load_flattened("boards")

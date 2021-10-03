@@ -5,6 +5,7 @@ socs = library.load_socs()
 chip_families = library.load_chip_families()
 manufacturers = library.load_manufacturers()
 flattened_socs = library.load_flattened_socs()
+flattened_boards = library.load_flattened_boards()
 
 def validate_board_soc(board, flattened_socs):
     if "variations" in board:
