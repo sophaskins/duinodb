@@ -7,9 +7,11 @@ common:
   soc: kinetis-k20
   voltage: 3.3
 variations:
-- price: 22.8
+- identifier: pjrc-teensy-3.2-pins
+  price: 22.8
   link: https://www.pjrc.com/store/teensy32_pins.html
   headers: presoldered-pin
-- price: 19.8
+- identifier: pjrc-teensy-3.2
+  price: 19.8
   link: https://www.pjrc.com/store/teensy32.html
   headers: unsoldered

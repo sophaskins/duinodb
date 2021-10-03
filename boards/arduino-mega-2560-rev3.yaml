@@ -8,4 +8,4 @@ common:
   voltage: 5.0
   price: 40.3
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mega-2560-rev3
-  headers: presoldered-pin
+  headers: presoldered-socket

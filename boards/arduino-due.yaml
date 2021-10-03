@@ -7,9 +7,11 @@ common:
   soc: sam3x8e
   voltage: 3.3
 variations:
-- price: 40.3
+- identifier: arduino-due
+  price: 40.3
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-due
-  headers: presoldered-pin
-- price: 39.1
+  headers: presoldered-socket
+- identifier: arduino-due-without-headers
+  price: 39.1
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-due-without-headers
-  headers: unsoldered
+  headers: none

@@ -7,9 +7,11 @@ common:
   soc: atmega32u4
   voltage: 5.0
 variations:
-- price: 20.7
+- identifier: arduino-micro
+  price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-micro
   headers: presoldered-pin
-- price: 18.4
+- identifier: arduino-micro-without-headers
+  price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-micro-without-headers
-  headers: unsoldered
+  headers: none

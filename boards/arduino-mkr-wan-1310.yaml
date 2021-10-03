@@ -8,4 +8,4 @@ common:
   voltage: 3.3
   price: 38.0
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-wan-1310
-  headers: presoldered-pin
+  headers: presoldered-stacking

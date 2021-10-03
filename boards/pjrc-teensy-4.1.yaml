@@ -7,9 +7,11 @@ common:
   soc: imxrt1062dvj6
   voltage: 3.3
 variations:
-- price: 30.85
+- identifier: pjrc-teensy-4.1-pins
+  price: 30.85
   link: https://www.pjrc.com/store/teensy41_pins.html
   headers: presoldered-pin
-- price: 26.85
+- identifier: pjrc-teensy-4.1
+  price: 26.85
   link: https://www.pjrc.com/store/teensy41.html
   headers: unsoldered

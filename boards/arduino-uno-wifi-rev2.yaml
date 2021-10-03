@@ -8,4 +8,4 @@ common:
   voltage: 5.0
   price: 44.8
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-uno-wifi-rev2
-  headers: presoldered-pin
+  headers: presoldered-socket

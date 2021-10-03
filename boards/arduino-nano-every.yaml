@@ -7,9 +7,11 @@ common:
   soc: atmega4809
   voltage: 5.0
 variations:
-- price: 13.9
+- identifier: arduino-nano-every-with-headers
+  price: 13.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
   headers: presoldered-pin
-- price: 11.9
+- identifier: arduino-nano-every
+  price: 11.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-every
   headers: unsoldered

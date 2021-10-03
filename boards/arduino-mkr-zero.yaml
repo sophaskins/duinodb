@@ -8,4 +8,4 @@ common:
   voltage: 3.3
   price: 25.2
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-zero-i2s-bus-sd-for-sound-music-digital-audio-data
-  headers: presoldered-pin
+  headers: presoldered-stacking

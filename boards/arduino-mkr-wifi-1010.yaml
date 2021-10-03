@@ -8,4 +8,4 @@ common:
   voltage: 3.3
   price: 32.1
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr-wifi-1010
-  headers: presoldered-pin
+  headers: presoldered-stacking

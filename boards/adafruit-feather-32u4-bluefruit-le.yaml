@@ -7,12 +7,15 @@ common:
   soc: atmega32u4
   voltage: 3.3
 variations:
-- price: 31.95
+- identifier: adafruit-feather-32u4-bluefruit-le-presoldered-pin
+  price: 31.95
   link: https://www.adafruit.com/product/3379
   headers: presoldered-pin
-- price: 29.95
+- identifier: adafruit-feather-32u4-bluefruit-le-unsoldered
+  price: 29.95
   link: https://www.adafruit.com/product/2829
   headers: unsoldered
-- price: 32.95
+- identifier: adafruit-feather-32u4-bluefruit-le-presoldered-stacking
+  price: 32.95
   link: https://www.adafruit.com/product/3242
   headers: presoldered-stacking

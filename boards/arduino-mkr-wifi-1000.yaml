@@ -7,9 +7,11 @@ common:
   soc: samd21
   voltage: 3.3
 variations:
-- price: 38.0
+- identifier: arduino-mkr-wifi-1000-presoldered-stacking
+  price: 38.0
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr1000-wifi-with-headers-mounted
-  headers: presoldered-pin
-- price: 36.8
+  headers: presoldered-stacking
+- identifier: arduino-mkr-wifi-1000
+  price: 36.8
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr1000-wifi
   headers: unsoldered

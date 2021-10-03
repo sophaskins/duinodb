@@ -7,12 +7,15 @@ common:
   soc: esp8266
   voltage: 3.3
 variations:
-- price: 18.95
+- identifier: adafruit-feather-huzzah-presoldered-pin
+  price: 18.95
   link: https://www.adafruit.com/product/3046
   headers: presoldered-pin
-- price: 16.95
+- identifier: adafruit-feather-huzzah-unsoldered
+  price: 16.95
   link: https://www.adafruit.com/product/2821
   headers: unsoldered
-- price: 19.95
+- identifier: adafruit-feather-huzzah-presoldered-stacking
+  price: 19.95
   link: https://www.adafruit.com/product/3213
   headers: presoldered-stacking

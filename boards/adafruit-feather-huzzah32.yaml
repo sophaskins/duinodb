@@ -8,12 +8,15 @@ common:
   voltage: 3.3
   externalFlash: 4 MB
 variations:
-- price: 20.95
+- identifier: adafruit-feather-huzzah32-presoldered-pin
+  price: 20.95
   link: https://www.adafruit.com/product/3591
   headers: presoldered-pin
-- price: 19.95
+- identifier: adafruit-feather-huzzah32-unsoldered
+  price: 19.95
   link: https://www.adafruit.com/product/3405
   headers: unsoldered
-- price: 21.95
+- identifier: adafruit-feather-huzzah32-presoldered-stacking
+  price: 21.95
   link: https://www.adafruit.com/product/3619
   headers: presoldered-stacking

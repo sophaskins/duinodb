@@ -8,9 +8,11 @@ common:
   voltage: 3.3
   externalFlash: 16 MB
 variations:
-- price: 25.5
+- identifier: arduino-nano-rp2040-connect-with-headers
+  price: 25.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect-with-headers
   headers: presoldered-pin
-- price: 24.5
+- identifier: arduino-nano-rp2040-connect
+  price: 24.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect
-  headers: unsoldered
+  headers: none

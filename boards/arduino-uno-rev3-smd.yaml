@@ -8,4 +8,4 @@ common:
   voltage: 5.0
   price: 21.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-uno-rev3-smd
-  headers: presoldered-pin
+  headers: presoldered-socket

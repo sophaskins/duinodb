@@ -7,9 +7,11 @@ common:
   soc: kinetis-k64
   voltage: 3.3
 variations:
-- price: 28.25
+- identifier: pjrc-teensy-3.5-pins
+  price: 28.25
   link: https://www.pjrc.com/store/teensy35_pins.html
   headers: presoldered-pin
-- price: 24.25
+- identifier: pjrc-teensy-3.5
+  price: 24.25
   link: https://www.pjrc.com/store/teensy35.html
   headers: unsoldered

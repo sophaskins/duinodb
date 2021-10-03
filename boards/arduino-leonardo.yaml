@@ -7,9 +7,11 @@ common:
   soc: atmega32u4
   voltage: 5.0
 variations:
-- price: 20.7
+- identifier: arduino-leonardo
+  price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-with-headers
-  headers: presoldered-pin
-- price: 18.4
+  headers: presoldered-socket
+- identifier: arduino-leonardo-without-headers
+  price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-without-headers
-  headers: unsoldered
+  headers: none

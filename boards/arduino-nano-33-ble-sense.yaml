@@ -7,9 +7,11 @@ common:
   soc: nrf52840
   voltage: 3.3
 variations:
-- price: 33.34
+- identifier: arduino-nano-33-ble-sense-with-headers
+  price: 33.34
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble-sense-with-headers
   headers: presoldered-pin
-- price: 31.1
+- identifier: arduino-nano-33-ble-sense
+  price: 31.1
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble-sense
   headers: unsoldered

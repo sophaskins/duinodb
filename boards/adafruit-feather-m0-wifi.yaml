@@ -7,12 +7,15 @@ common:
   soc: samd21
   voltage: 3.3
 variations:
-- price: 36.95
+- identifier: adafruit-feather-m0-wifi-presoldered-pin
+  price: 36.95
   link: https://www.adafruit.com/product/2598
   headers: presoldered-pin
-- price: 34.95
+- identifier: adafruit-feather-m0-wifi-unsoldered
+  price: 34.95
   link: https://www.adafruit.com/product/3010
   headers: unsoldered
-- price: 39.95
+- identifier: adafruit-feather-m0-wifi-presoldered-stacking
+  price: 39.95
   link: https://www.adafruit.com/product/3044
   headers: presoldered-stacking

@@ -7,9 +7,11 @@ common:
   soc: samd21
   voltage: 3.3
 variations:
-- price: 20.7
+- identifier: arduino-nano-33-iot-with-headers
+  price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-iot-with-headers
   headers: presoldered-pin
-- price: 18.4
+- identifier: arduino-nano-33-iot
+  price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-iot
   headers: unsoldered

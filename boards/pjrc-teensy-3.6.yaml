@@ -7,9 +7,11 @@ common:
   soc: kinetis-k66
   voltage: 3.3
 variations:
-- price: 33.25
+- identifier: pjrc-teensy-3.6-pins
+  price: 33.25
   link: https://www.pjrc.com/store/teensy36_pins.html
   headers: presoldered-pin
-- price: 29.25
+- identifier: pjrc-teensy-3.6
+  price: 29.25
   link: https://www.pjrc.com/store/teensy36.html
   headers: unsoldered

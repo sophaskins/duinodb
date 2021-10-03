@@ -8,4 +8,4 @@ common:
   voltage: 3.3
   price: 39.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-zero
-  headers: presoldered-pin
+  headers: presoldered-socket
