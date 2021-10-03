@@ -1,6 +1,6 @@
 kind: SoC
 name: PIC32MX795
-identifier: pic32mx795
+id: pic32mx795
 chipFamily: mips-m4k
 common:
   sram: 128 KB

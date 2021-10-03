@@ -1,6 +1,6 @@
 kind: Board
 name: Feather nRF52 Pro w/ myNewt
-identifier: adafruit-feather-nrf52-pro-w--mynewt
+id: adafruit-feather-nrf52-pro-w--mynewt
 manufacturer: adafruit
 common:
   pinout: Feather

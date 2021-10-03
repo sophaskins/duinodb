@@ -1,6 +1,6 @@
 kind: Board
 name: SAMD21 Dev Breakout
-identifier: sparkfun-samd21-dev-breakout
+id: sparkfun-samd21-dev-breakout
 manufacturer: sparkfun
 common:
   pinout: Arduino

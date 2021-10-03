@@ -1,6 +1,6 @@
 kind: Board
 name: Teensy 2.0
-identifier: pjrc-teensy-2.0
+id: pjrc-teensy-2.0
 manufacturer: pjrc
 common:
   pinout: Teensy

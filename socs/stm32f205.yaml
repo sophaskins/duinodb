@@ -1,6 +1,6 @@
 kind: SoC
 name: STM32F205
-identifier: stm32f205
+id: stm32f205
 chipFamily: cortex-m3
 common:
   sram: 128 KB

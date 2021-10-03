@@ -1,6 +1,6 @@
 kind: Board
 name: Feather 32u4 FONA
-identifier: adafruit-feather-32u4-fona
+id: adafruit-feather-32u4-fona
 manufacturer: adafruit
 common:
   pinout: Feather

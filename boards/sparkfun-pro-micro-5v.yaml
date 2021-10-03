@@ -1,6 +1,6 @@
 kind: Board
 name: Pro Micro 5V
-identifier: sparkfun-pro-micro-5v
+id: sparkfun-pro-micro-5v
 manufacturer: sparkfun
 common:
   pinout: Breadboardable

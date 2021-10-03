@@ -1,13 +1,13 @@
 kind: SoC
 name: SAM D51
-identifier: samd51
+id: samd51
 chipFamily: cortex-m4
 variations:
 - name: SAMD51J19
-  identifier: samd51j19
+  id: samd51j19
   sram: 192 KB
   flash: 512 KB
 - name: SAMD51J20
-  identifier: samd51j20
+  id: samd51j20
   sram: 256 KB
   flash: 1 MB

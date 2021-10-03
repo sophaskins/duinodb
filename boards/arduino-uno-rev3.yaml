@@ -1,6 +1,6 @@
 kind: Board
 name: Uno Rev3
-identifier: arduino-uno-rev3
+id: arduino-uno-rev3
 manufacturer: arduino
 common:
   pinout: Arduino

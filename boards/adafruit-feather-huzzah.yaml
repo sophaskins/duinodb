@@ -1,21 +1,21 @@
 kind: Board
 name: Feather HUZZAH
-identifier: adafruit-feather-huzzah
+id: adafruit-feather-huzzah
 manufacturer: adafruit
 common:
   pinout: Feather
   soc: esp8266
   voltage: 3.3
 variations:
-- identifier: adafruit-feather-huzzah-presoldered-pin
+- id: adafruit-feather-huzzah-presoldered-pin
   price: 18.95
   link: https://www.adafruit.com/product/3046
   headers: presoldered-pin
-- identifier: adafruit-feather-huzzah-unsoldered
+- id: adafruit-feather-huzzah-unsoldered
   price: 16.95
   link: https://www.adafruit.com/product/2821
   headers: unsoldered
-- identifier: adafruit-feather-huzzah-presoldered-stacking
+- id: adafruit-feather-huzzah-presoldered-stacking
   price: 19.95
   link: https://www.adafruit.com/product/3213
   headers: presoldered-stacking

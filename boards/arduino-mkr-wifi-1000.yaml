@@ -1,17 +1,17 @@
 kind: Board
 name: MKR Wifi 1000
-identifier: arduino-mkr-wifi-1000
+id: arduino-mkr-wifi-1000
 manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: samd21
   voltage: 3.3
 variations:
-- identifier: arduino-mkr-wifi-1000-presoldered-stacking
+- id: arduino-mkr-wifi-1000-presoldered-stacking
   price: 38.0
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr1000-wifi-with-headers-mounted
   headers: presoldered-stacking
-- identifier: arduino-mkr-wifi-1000
+- id: arduino-mkr-wifi-1000
   price: 36.8
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-mkr1000-wifi
   headers: unsoldered

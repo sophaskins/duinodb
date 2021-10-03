@@ -1,6 +1,6 @@
 kind: SoC
 name: RP2040
-identifier: rp2040
+id: rp2040
 chipFamily: cortex-m0plus
 common:
   sram: 264 KB

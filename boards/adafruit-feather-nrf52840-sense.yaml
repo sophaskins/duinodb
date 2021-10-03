@@ -1,6 +1,6 @@
 kind: Board
 name: Feather nRF52840 Sense
-identifier: adafruit-feather-nrf52840-sense
+id: adafruit-feather-nrf52840-sense
 manufacturer: adafruit
 common:
   pinout: Feather

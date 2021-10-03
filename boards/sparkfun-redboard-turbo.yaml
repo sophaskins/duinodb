@@ -1,6 +1,6 @@
 kind: Board
 name: RedBoard Turbo
-identifier: sparkfun-redboard-turbo
+id: sparkfun-redboard-turbo
 manufacturer: sparkfun
 common:
   pinout: Arduino

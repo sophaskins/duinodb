@@ -1,6 +1,6 @@
 kind: Board
 name: Arduino Pro Mini 328 3.3V
-identifier: sparkfun-arduino-pro-mini-328-3.3v
+id: sparkfun-arduino-pro-mini-328-3.3v
 manufacturer: sparkfun
 common:
   pinout: Breadboardable

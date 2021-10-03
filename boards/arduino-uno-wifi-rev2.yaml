@@ -1,6 +1,6 @@
 kind: Board
 name: Uno Wifi Rev2
-identifier: arduino-uno-wifi-rev2
+id: arduino-uno-wifi-rev2
 manufacturer: arduino
 common:
   pinout: Arduino

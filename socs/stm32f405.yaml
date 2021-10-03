@@ -1,6 +1,6 @@
 kind: SoC
 name: STM32F405
-identifier: stm32f405
+id: stm32f405
 chipFamily: cortex-m4
 common:
   sram: 192 KB

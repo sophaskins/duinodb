@@ -1,6 +1,6 @@
 kind: SoC
 name: SAM3X8E
-identifier: sam3x8e
+id: sam3x8e
 chipFamily: cortex-m3
 common:
   sram: 96 KB

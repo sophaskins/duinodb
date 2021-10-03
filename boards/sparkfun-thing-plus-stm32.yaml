@@ -1,6 +1,6 @@
 kind: Board
 name: Thing Plus STM32
-identifier: sparkfun-thing-plus-stm32
+id: sparkfun-thing-plus-stm32
 manufacturer: sparkfun
 common:
   pinout: Breadboardable

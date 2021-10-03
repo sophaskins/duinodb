@@ -1,6 +1,6 @@
 kind: Board
 name: Feather 32u4 RadioFruit Packet 900 MHz
-identifier: adafruit-feather-32u4-radiofruit-packet-900-mhz
+id: adafruit-feather-32u4-radiofruit-packet-900-mhz
 manufacturer: adafruit
 common:
   pinout: Feather

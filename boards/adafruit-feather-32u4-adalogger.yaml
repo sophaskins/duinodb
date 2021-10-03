@@ -1,6 +1,6 @@
 kind: Board
 name: Feather 32u4 Adalogger
-identifier: adafruit-feather-32u4-adalogger
+id: adafruit-feather-32u4-adalogger
 manufacturer: adafruit
 common:
   pinout: Feather

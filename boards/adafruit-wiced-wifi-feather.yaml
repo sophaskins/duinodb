@@ -1,6 +1,6 @@
 kind: Board
 name: WICED WiFi Feather
-identifier: adafruit-wiced-wifi-feather
+id: adafruit-wiced-wifi-feather
 manufacturer: adafruit
 common:
   pinout: Feather

@@ -1,6 +1,6 @@
 kind: SoC
 name: Apollo3
-identifier: apollo3
+id: apollo3
 chipFamily: cortex-m4
 common:
   sram: 384 KB

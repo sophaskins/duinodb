@@ -1,6 +1,6 @@
 kind: SoC
 name: ATmega328P
-identifier: atmega328p
+id: atmega328p
 chipFamily: atmega
 common:
   sram: 2 KB

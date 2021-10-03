@@ -1,6 +1,6 @@
 kind: Board
 name: Zero
-identifier: arduino-zero
+id: arduino-zero
 manufacturer: arduino
 common:
   pinout: Arduino

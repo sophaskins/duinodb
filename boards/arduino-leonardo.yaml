@@ -1,17 +1,17 @@
 kind: Board
 name: Leonardo
-identifier: arduino-leonardo
+id: arduino-leonardo
 manufacturer: arduino
 common:
   pinout: Arduino
   soc: atmega32u4
   voltage: 5.0
 variations:
-- identifier: arduino-leonardo
+- id: arduino-leonardo
   price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-with-headers
   headers: presoldered-socket
-- identifier: arduino-leonardo-without-headers
+- id: arduino-leonardo-without-headers
   price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-leonardo-without-headers
   headers: none

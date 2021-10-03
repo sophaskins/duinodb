@@ -1,6 +1,6 @@
 kind: Board
 name: Qwiic Pro Micro
-identifier: sparkfun-qwiic-pro-micro
+id: sparkfun-qwiic-pro-micro
 manufacturer: sparkfun
 common:
   pinout: Breadboardable

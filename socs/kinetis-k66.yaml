@@ -1,6 +1,6 @@
 kind: SoC
 name: Kinetis K66
-identifier: kinetis-k66
+id: kinetis-k66
 chipFamily: cortex-m4
 common:
   sram: 256 KB

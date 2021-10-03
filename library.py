@@ -7,7 +7,7 @@ def load_items(kind):
     for filename in filenames:
         with open (filename, "r") as f:
             data = yaml.load(f, Loader=yaml.SafeLoader)
-            items[data["identifier"]] = data
+            items[data["id"]] = data
     return items
 
 def load_boards():
@@ -35,9 +35,9 @@ def load_flattened(kind):
         if "variations" in item:
             del base["variations"]
             for variation in item["variations"]:
-                flattened[variation["identifier"]] = (base | common) | variation
+                flattened[variation["id"]] = (base | common) | variation
         else:
-            flattened[item["identifier"]] = base | common
+            flattened[item["id"]] = base | common
 
     return flattened
 

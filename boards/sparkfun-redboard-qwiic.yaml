@@ -1,6 +1,6 @@
 kind: Board
 name: RedBoard Qwiic
-identifier: sparkfun-redboard-qwiic
+id: sparkfun-redboard-qwiic
 manufacturer: sparkfun
 common:
   pinout: Arduino

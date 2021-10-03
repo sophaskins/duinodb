@@ -1,6 +1,6 @@
 kind: Board
 name: Feather M0 Express
-identifier: adafruit-feather-m0-express
+id: adafruit-feather-m0-express
 manufacturer: adafruit
 common:
   pinout: Feather

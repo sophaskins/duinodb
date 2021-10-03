@@ -1,6 +1,6 @@
 kind: Board
 name: MKR GSM 1400
-identifier: arduino-mkr-gsm-1400
+id: arduino-mkr-gsm-1400
 manufacturer: arduino
 common:
   pinout: Breadboardable

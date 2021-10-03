@@ -1,17 +1,17 @@
 kind: Board
 name: Nano Every
-identifier: arduino-nano-every
+id: arduino-nano-every
 manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega4809
   voltage: 5.0
 variations:
-- identifier: arduino-nano-every-with-headers
+- id: arduino-nano-every-with-headers
   price: 13.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-every-with-headers
   headers: presoldered-pin
-- identifier: arduino-nano-every
+- id: arduino-nano-every
   price: 11.9
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-every
   headers: unsoldered

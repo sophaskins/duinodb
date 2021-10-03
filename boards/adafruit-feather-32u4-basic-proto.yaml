@@ -1,6 +1,6 @@
 kind: Board
 name: Feather 32u4 Basic Proto
-identifier: adafruit-feather-32u4-basic-proto
+id: adafruit-feather-32u4-basic-proto
 manufacturer: adafruit
 common:
   pinout: Feather

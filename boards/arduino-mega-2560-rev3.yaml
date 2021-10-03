@@ -1,6 +1,6 @@
 kind: Board
 name: Mega 2560 Rev3
-identifier: arduino-mega-2560-rev3
+id: arduino-mega-2560-rev3
 manufacturer: arduino
 common:
   pinout: Arduino Mega

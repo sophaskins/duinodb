@@ -1,17 +1,17 @@
 kind: Board
 name: Micro
-identifier: arduino-micro
+id: arduino-micro
 manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: atmega32u4
   voltage: 5.0
 variations:
-- identifier: arduino-micro
+- id: arduino-micro
   price: 20.7
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-micro
   headers: presoldered-pin
-- identifier: arduino-micro-without-headers
+- id: arduino-micro-without-headers
   price: 18.4
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-micro-without-headers
   headers: none

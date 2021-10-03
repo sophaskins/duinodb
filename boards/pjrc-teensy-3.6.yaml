@@ -1,17 +1,17 @@
 kind: Board
 name: Teensy 3.6
-identifier: pjrc-teensy-3.6
+id: pjrc-teensy-3.6
 manufacturer: pjrc
 common:
   pinout: Teensy++
   soc: kinetis-k66
   voltage: 3.3
 variations:
-- identifier: pjrc-teensy-3.6-pins
+- id: pjrc-teensy-3.6-pins
   price: 33.25
   link: https://www.pjrc.com/store/teensy36_pins.html
   headers: presoldered-pin
-- identifier: pjrc-teensy-3.6
+- id: pjrc-teensy-3.6
   price: 29.25
   link: https://www.pjrc.com/store/teensy36.html
   headers: unsoldered

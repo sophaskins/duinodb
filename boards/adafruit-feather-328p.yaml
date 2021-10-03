@@ -1,6 +1,6 @@
 kind: Board
 name: Feather 328P
-identifier: adafruit-feather-328p
+id: adafruit-feather-328p
 manufacturer: adafruit
 common:
   pinout: Feather

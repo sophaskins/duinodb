@@ -1,6 +1,6 @@
 kind: Board
 name: SAMD21 Mini Breakout
-identifier: sparkfun-samd21-mini-breakout
+id: sparkfun-samd21-mini-breakout
 manufacturer: sparkfun
 common:
   pinout: Breadboardable

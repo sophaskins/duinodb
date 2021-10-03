@@ -1,6 +1,6 @@
 kind: Board
 name: MKR Zero
-identifier: arduino-mkr-zero
+id: arduino-mkr-zero
 manufacturer: arduino
 common:
   pinout: Breadboardable

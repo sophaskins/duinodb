@@ -1,6 +1,6 @@
 kind: Board
 name: Arduino Pro 328 5V
-identifier: sparkfun-arduino-pro-328-5v
+id: sparkfun-arduino-pro-328-5v
 manufacturer: sparkfun
 common:
   pinout: Arduino

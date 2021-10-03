@@ -1,21 +1,21 @@
 kind: Board
 name: Feather 32u4 Bluefruit LE
-identifier: adafruit-feather-32u4-bluefruit-le
+id: adafruit-feather-32u4-bluefruit-le
 manufacturer: adafruit
 common:
   pinout: Feather
   soc: atmega32u4
   voltage: 3.3
 variations:
-- identifier: adafruit-feather-32u4-bluefruit-le-presoldered-pin
+- id: adafruit-feather-32u4-bluefruit-le-presoldered-pin
   price: 31.95
   link: https://www.adafruit.com/product/3379
   headers: presoldered-pin
-- identifier: adafruit-feather-32u4-bluefruit-le-unsoldered
+- id: adafruit-feather-32u4-bluefruit-le-unsoldered
   price: 29.95
   link: https://www.adafruit.com/product/2829
   headers: unsoldered
-- identifier: adafruit-feather-32u4-bluefruit-le-presoldered-stacking
+- id: adafruit-feather-32u4-bluefruit-le-presoldered-stacking
   price: 32.95
   link: https://www.adafruit.com/product/3242
   headers: presoldered-stacking

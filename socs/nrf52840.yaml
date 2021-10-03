@@ -1,6 +1,6 @@
 kind: SoC
 name: nRF52840
-identifier: nrf52840
+id: nrf52840
 chipFamily: cortex-m4
 common:
   sram: 256 KB

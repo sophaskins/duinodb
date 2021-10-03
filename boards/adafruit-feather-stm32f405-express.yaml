@@ -1,6 +1,6 @@
 kind: Board
 name: Feather STM32F405 Express
-identifier: adafruit-feather-stm32f405-express
+id: adafruit-feather-stm32f405-express
 manufacturer: adafruit
 common:
   pinout: Feather

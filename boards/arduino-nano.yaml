@@ -1,6 +1,6 @@
 kind: Board
 name: Nano
-identifier: arduino-nano
+id: arduino-nano
 manufacturer: arduino
 common:
   pinout: Breadboardable

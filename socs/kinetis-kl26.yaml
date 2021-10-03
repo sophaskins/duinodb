@@ -1,6 +1,6 @@
 kind: SoC
 name: Kinetis KL26
-identifier: kinetis-kl26
+id: kinetis-kl26
 chipFamily: cortex-m0plus
 common:
   sram: 8 KB

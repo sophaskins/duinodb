@@ -1,6 +1,6 @@
 kind: SoC
 name: IMXRT1062DVJ6
-identifier: imxrt1062dvj6
+id: imxrt1062dvj6
 chipFamily: cortex-m7
 common:
   sram: 1024 KB

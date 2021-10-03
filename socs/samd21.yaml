@@ -1,6 +1,6 @@
 kind: SoC
 name: SAMD21
-identifier: samd21
+id: samd21
 chipFamily: cortex-m0plus
 common:
   sram: 32 KB

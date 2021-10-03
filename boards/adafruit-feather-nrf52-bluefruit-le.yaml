@@ -1,6 +1,6 @@
 kind: Board
 name: Feather nRF52 Bluefruit LE
-identifier: adafruit-feather-nrf52-bluefruit-le
+id: adafruit-feather-nrf52-bluefruit-le
 manufacturer: adafruit
 common:
   pinout: Feather

@@ -1,6 +1,6 @@
 kind: Board
 name: FreeSoC2
-identifier: sparkfun-freesoc2
+id: sparkfun-freesoc2
 manufacturer: sparkfun
 common:
   pinout: Arduino Mega

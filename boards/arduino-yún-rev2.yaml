@@ -1,6 +1,6 @@
 kind: Board
 name: "Y\xFAn Rev2"
-identifier: "arduino-y\xFAn-rev2"
+id: "arduino-y\xFAn-rev2"
 manufacturer: arduino
 common:
   pinout: Arduino

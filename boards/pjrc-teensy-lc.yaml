@@ -1,17 +1,17 @@
 kind: Board
 name: Teensy LC
-identifier: pjrc-teensy-lc
+id: pjrc-teensy-lc
 manufacturer: pjrc
 common:
   pinout: Teensy
   soc: kinetis-kl26
   voltage: 3.3
 variations:
-- identifier: pjrc-teensy-lc-pins
+- id: pjrc-teensy-lc-pins
   price: 14.65
   link: https://www.pjrc.com/store/teensylc_pins.html
   headers: presoldered-pin
-- identifier: pjrc-teensy-lc
+- id: pjrc-teensy-lc
   price: 11.65
   link: https://www.pjrc.com/store/teensylc.html
   headers: unsoldered

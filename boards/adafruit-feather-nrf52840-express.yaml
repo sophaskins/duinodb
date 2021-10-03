@@ -1,6 +1,6 @@
 kind: Board
 name: Feather nRF52840 Express
-identifier: adafruit-feather-nrf52840-express
+id: adafruit-feather-nrf52840-express
 manufacturer: adafruit
 common:
   pinout: Feather

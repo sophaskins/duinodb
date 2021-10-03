@@ -1,6 +1,6 @@
 kind: Board
 name: Nano RP2040 Connect
-identifier: arduino-nano-rp2040-connect
+id: arduino-nano-rp2040-connect
 manufacturer: arduino
 common:
   pinout: Breadboardable
@@ -8,11 +8,11 @@ common:
   voltage: 3.3
   externalFlash: 16 MB
 variations:
-- identifier: arduino-nano-rp2040-connect-with-headers
+- id: arduino-nano-rp2040-connect-with-headers
   price: 25.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect-with-headers
   headers: presoldered-pin
-- identifier: arduino-nano-rp2040-connect
+- id: arduino-nano-rp2040-connect
   price: 24.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-rp2040-connect
   headers: none

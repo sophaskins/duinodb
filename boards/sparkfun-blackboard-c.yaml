@@ -1,6 +1,6 @@
 kind: Board
 name: BlackBoard C
-identifier: sparkfun-blackboard-c
+id: sparkfun-blackboard-c
 manufacturer: sparkfun
 common:
   pinout: Arduino

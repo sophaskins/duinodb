@@ -1,17 +1,17 @@
 kind: Board
 name: Due
-identifier: arduino-due
+id: arduino-due
 manufacturer: arduino
 common:
   pinout: Arduino Mega
   soc: sam3x8e
   voltage: 3.3
 variations:
-- identifier: arduino-due
+- id: arduino-due
   price: 40.3
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-due
   headers: presoldered-socket
-- identifier: arduino-due-without-headers
+- id: arduino-due-without-headers
   price: 39.1
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-due-without-headers
   headers: none

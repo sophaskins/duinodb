@@ -1,17 +1,17 @@
 kind: Board
 name: Teensy 3.5
-identifier: pjrc-teensy-3.5
+id: pjrc-teensy-3.5
 manufacturer: pjrc
 common:
   pinout: Teensy++
   soc: kinetis-k64
   voltage: 3.3
 variations:
-- identifier: pjrc-teensy-3.5-pins
+- id: pjrc-teensy-3.5-pins
   price: 28.25
   link: https://www.pjrc.com/store/teensy35_pins.html
   headers: presoldered-pin
-- identifier: pjrc-teensy-3.5
+- id: pjrc-teensy-3.5
   price: 24.25
   link: https://www.pjrc.com/store/teensy35.html
   headers: unsoldered

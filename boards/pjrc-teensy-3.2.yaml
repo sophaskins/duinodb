@@ -1,17 +1,17 @@
 kind: Board
 name: Teensy 3.2
-identifier: pjrc-teensy-3.2
+id: pjrc-teensy-3.2
 manufacturer: pjrc
 common:
   pinout: Teensy
   soc: kinetis-k20
   voltage: 3.3
 variations:
-- identifier: pjrc-teensy-3.2-pins
+- id: pjrc-teensy-3.2-pins
   price: 22.8
   link: https://www.pjrc.com/store/teensy32_pins.html
   headers: presoldered-pin
-- identifier: pjrc-teensy-3.2
+- id: pjrc-teensy-3.2
   price: 19.8
   link: https://www.pjrc.com/store/teensy32.html
   headers: unsoldered

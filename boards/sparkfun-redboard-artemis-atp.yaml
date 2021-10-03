@@ -1,6 +1,6 @@
 kind: Board
 name: RedBoard Artemis ATP
-identifier: sparkfun-redboard-artemis-atp
+id: sparkfun-redboard-artemis-atp
 manufacturer: sparkfun
 common:
   pinout: Arduino Mega

@@ -16,15 +16,15 @@ def validate_board_soc(board, flattened_socs):
                 soc = board["common"]["soc"]
 
             if soc not in flattened_socs:
-                print("invalid soc ({}) for board {} variation {}".format(soc, board["identifier"], variation["identifier"]))
+                print("invalid soc ({}) for board {} variation {}".format(soc, board["id"], variation["id"]))
     else:
         soc = board["common"]["soc"]
         if soc not in flattened_socs:
-                print("invalid soc ({}) for board {}".format(soc, board["identifier"]))
+                print("invalid soc ({}) for board {}".format(soc, board["id"]))
 
 def validate_board_manufacturers(board, manufacturers):
     if board["manufacturer"] not in manufacturers:
-        print("invalid manufacturer {} for board {}".format(board["manufacturer"], board["identifier"]))
+        print("invalid manufacturer {} for board {}".format(board["manufacturer"], board["id"]))
 
 for _, board in boards.items():
     validate_board_soc(board, flattened_socs)

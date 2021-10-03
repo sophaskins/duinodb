@@ -1,6 +1,6 @@
 kind: Board
 name: Uno Rev3 SMD
-identifier: arduino-uno-rev3-smd
+id: arduino-uno-rev3-smd
 manufacturer: arduino
 common:
   pinout: Arduino

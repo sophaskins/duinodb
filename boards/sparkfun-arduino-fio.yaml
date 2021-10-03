@@ -1,6 +1,6 @@
 kind: Board
 name: Arduino Fio
-identifier: sparkfun-arduino-fio
+id: sparkfun-arduino-fio
 manufacturer: sparkfun
 common:
   pinout: Breadboardable

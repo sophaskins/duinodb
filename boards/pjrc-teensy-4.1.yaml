@@ -1,17 +1,17 @@
 kind: Board
 name: Teensy 4.1
-identifier: pjrc-teensy-4.1
+id: pjrc-teensy-4.1
 manufacturer: pjrc
 common:
   pinout: Teensy++
   soc: imxrt1062dvj6
   voltage: 3.3
 variations:
-- identifier: pjrc-teensy-4.1-pins
+- id: pjrc-teensy-4.1-pins
   price: 30.85
   link: https://www.pjrc.com/store/teensy41_pins.html
   headers: presoldered-pin
-- identifier: pjrc-teensy-4.1
+- id: pjrc-teensy-4.1
   price: 26.85
   link: https://www.pjrc.com/store/teensy41.html
   headers: unsoldered

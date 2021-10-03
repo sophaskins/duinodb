@@ -1,6 +1,6 @@
 kind: Board
 name: Feather 2040
-identifier: adafruit-feather-2040
+id: adafruit-feather-2040
 manufacturer: adafruit
 common:
   pinout: Feather

@@ -1,6 +1,6 @@
 kind: Board
 name: RedBoard
-identifier: sparkfun-redboard
+id: sparkfun-redboard
 manufacturer: sparkfun
 common:
   pinout: Arduino

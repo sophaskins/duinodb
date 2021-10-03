@@ -1,21 +1,21 @@
 kind: Board
 name: Feather M0 WiFi
-identifier: adafruit-feather-m0-wifi
+id: adafruit-feather-m0-wifi
 manufacturer: adafruit
 common:
   pinout: Feather
   soc: samd21
   voltage: 3.3
 variations:
-- identifier: adafruit-feather-m0-wifi-presoldered-pin
+- id: adafruit-feather-m0-wifi-presoldered-pin
   price: 36.95
   link: https://www.adafruit.com/product/2598
   headers: presoldered-pin
-- identifier: adafruit-feather-m0-wifi-unsoldered
+- id: adafruit-feather-m0-wifi-unsoldered
   price: 34.95
   link: https://www.adafruit.com/product/3010
   headers: unsoldered
-- identifier: adafruit-feather-m0-wifi-presoldered-stacking
+- id: adafruit-feather-m0-wifi-presoldered-stacking
   price: 39.95
   link: https://www.adafruit.com/product/3044
   headers: presoldered-stacking

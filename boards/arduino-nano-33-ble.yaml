@@ -1,17 +1,17 @@
 kind: Board
 name: Nano 33 BLE
-identifier: arduino-nano-33-ble
+id: arduino-nano-33-ble
 manufacturer: arduino
 common:
   pinout: Breadboardable
   soc: nrf52840
   voltage: 3.3
 variations:
-- identifier: arduino-nano-33-ble-with-headers
+- id: arduino-nano-33-ble-with-headers
   price: 22.5
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble-with-headers
   headers: presoldered-pin
-- identifier: arduino-nano-33-ble
+- id: arduino-nano-33-ble
   price: 20.2
   link: https://store-usa.arduino.cc/collections/boards/products/arduino-nano-33-ble
   headers: unsoldered

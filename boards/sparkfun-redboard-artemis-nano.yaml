@@ -1,6 +1,6 @@
 kind: Board
 name: RedBoard Artemis Nano
-identifier: sparkfun-redboard-artemis-nano
+id: sparkfun-redboard-artemis-nano
 manufacturer: sparkfun
 common:
   pinout: Breadboardable
