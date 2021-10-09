@@ -3,7 +3,7 @@ name: Teensy LC
 id: pjrc-teensy-lc
 manufacturer: pjrc
 common:
-  pinout: Teensy
+  pinout: breadboardable
   soc: kinetis-kl26
   voltage: 3.3
 variations:

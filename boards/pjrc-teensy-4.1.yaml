@@ -3,7 +3,7 @@ name: Teensy 4.1
 id: pjrc-teensy-4.1
 manufacturer: pjrc
 common:
-  pinout: Teensy++
+  pinout: breadboardable
   soc: imxrt1062dvj6
   voltage: 3.3
 variations:

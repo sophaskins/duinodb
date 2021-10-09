@@ -3,7 +3,7 @@ name: Teensy 2.0
 id: pjrc-teensy-2.0
 manufacturer: pjrc
 common:
-  pinout: Teensy
+  pinout: breadboardable
   soc: atmega32u4
   voltage: 5.0
   price: 16.0

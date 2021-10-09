@@ -3,7 +3,7 @@ name: Teensy 3.5
 id: pjrc-teensy-3.5
 manufacturer: pjrc
 common:
-  pinout: Teensy++
+  pinout: breadboardable
   soc: kinetis-k64
   voltage: 3.3
 variations:
