@@ -1,0 +1,11 @@
+kind: Board
+name: Seeeduino Lotus V1.1
+id: seeeduino-lotus-v1.1
+manufacturer: seeed-studio
+common:
+  pinout: Arduino
+  soc: atmega32u4
+  voltage: 5
+  headers: soldered-socket
+  price: 10.90
+  link: https://www.seeedstudio.com/Seeeduino-Lotus-V1-1-ATMega328-Board-with-Grove-Interface.html

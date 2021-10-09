@@ -1,0 +1,11 @@
+kind: Board
+name: Seeeduino GPRS
+id: seeeduino-gprs
+manufacturer: seeed-studio
+common:
+  pinout: Arduino
+  soc: atmega32u4
+  voltage: 5
+  headers: soldered-socket
+  price: 19.90
+  link: https://www.seeedstudio.com/Seeeduino-GPRS-p-1909.html

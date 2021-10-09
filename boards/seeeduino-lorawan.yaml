@@ -1,0 +1,16 @@
+kind: Board
+name: Seeeduino LoRaWAN
+id: seeeduino-lorawan
+manufacturer: seeed-studio
+common:
+  pinout: Arduino
+  soc: samd21
+  voltage: 3.3
+  headers: soldered-socket
+variations:
+- id: seeeduino-lorawan
+  price: 39
+  link: https://www.seeedstudio.com/Seeeduino-LoRaWAN-p-2780.html
+- id: seeeduino-lorawan-gps
+  price: 49
+  link: https://www.seeedstudio.com/Seeeduino-LoRaWAN-W-GPS-p-2781.html

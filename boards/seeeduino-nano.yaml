@@ -1,0 +1,11 @@
+kind: Board
+name: Seeeduino Nano
+id: seeeduino-nano
+manufacturer: seeed-studio
+common:
+  pinout: breadboardable
+  soc: atmega328p
+  voltage: 5
+  headers: soldered-socket
+  price: 7.60
+  link: https://www.seeedstudio.com/Seeeduino-Nano-p-4111.html

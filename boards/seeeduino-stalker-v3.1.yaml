@@ -1,0 +1,11 @@
+kind: Board
+name: Seeeduino Stalker V3.1
+id: seeeduino-stalker-v3.1
+manufacturer: seeed-studio
+common:
+  pinout: Arduino
+  soc: atmega328p
+  voltage: 3.3
+  headers: soldered-socket
+  price: 29.50
+  link: https://www.seeedstudio.com/Seeeduino-Stalker-V3-1-p-2686.html

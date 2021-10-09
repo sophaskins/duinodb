@@ -1,0 +1,11 @@
+kind: Board
+name: Seeeduino Crypto
+id: seeeduino-crypto
+manufacturer: seeed-studio
+common:
+  pinout: Arduino
+  soc: atmega4809
+  voltage: 5
+  headers: soldered-socket
+  price: 21.90
+  link: https://www.seeedstudio.com/Seeeduino-Crypto-ATmega4809-ECC608-p-4369.html

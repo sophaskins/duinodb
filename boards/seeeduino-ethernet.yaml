@@ -1,0 +1,11 @@
+kind: Board
+name: Seeeduino Ethernet
+id: seeeduino-ethernet
+manufacturer: seeed-studio
+common:
+  pinout: Arduino
+  soc: atmega328p
+  voltage: 5
+  headers: soldered-socket
+  price: 45
+  link: https://www.seeedstudio.com/Seeeduino-Ethernet-p-1231.html
