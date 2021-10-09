@@ -3,7 +3,7 @@ name: Feather M0 Adalogger
 id: adafruit-feather-m0-adalogger
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: samd21
   voltage: 3.3
   price: 19.95

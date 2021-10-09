@@ -3,7 +3,7 @@ name: Feather HUZZAH
 id: adafruit-feather-huzzah
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: esp8266
   voltage: 3.3
 variations:

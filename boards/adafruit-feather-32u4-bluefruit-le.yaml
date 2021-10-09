@@ -3,7 +3,7 @@ name: Feather 32u4 Bluefruit LE
 id: adafruit-feather-32u4-bluefruit-le
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: atmega32u4
   voltage: 3.3
 variations:

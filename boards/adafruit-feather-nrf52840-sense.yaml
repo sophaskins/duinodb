@@ -3,7 +3,7 @@ name: Feather nRF52840 Sense
 id: adafruit-feather-nrf52840-sense
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: nrf52840
   voltage: 3.3
   price: 32.5

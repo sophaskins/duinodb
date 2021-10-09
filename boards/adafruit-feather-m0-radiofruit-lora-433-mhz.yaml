@@ -3,7 +3,7 @@ name: Feather M0 RadioFruit LoRa 433 MHz
 id: adafruit-feather-m0-radiofruit-lora-433-mhz
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: samd21
   voltage: 3.3
   price: 34.95

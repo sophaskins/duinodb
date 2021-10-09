@@ -3,7 +3,7 @@ name: WICED WiFi Feather
 id: adafruit-wiced-wifi-feather
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: stm32f205
   voltage: 3.3
   price: 34.95

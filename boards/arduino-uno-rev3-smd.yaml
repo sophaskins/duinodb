@@ -3,7 +3,7 @@ name: Uno Rev3 SMD
 id: arduino-uno-rev3-smd
 manufacturer: arduino
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega328p
   voltage: 5.0
   price: 21.9

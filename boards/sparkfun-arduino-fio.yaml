@@ -3,7 +3,7 @@ name: Arduino Fio
 id: sparkfun-arduino-fio
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega328
   voltage: 3.3
   price: 28.5

@@ -3,7 +3,7 @@ name: Seeeduino Cloud
 id: seeeduino-cloud
 manufacturer: seeed-studio
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega32u4
   voltage: 5
   headers: soldered-socket

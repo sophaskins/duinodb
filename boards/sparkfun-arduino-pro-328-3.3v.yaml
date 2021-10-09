@@ -3,7 +3,7 @@ name: Arduino Pro 328 3.3V
 id: sparkfun-arduino-pro-328-3.3v
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega328
   voltage: 3.3
   price: 16.95

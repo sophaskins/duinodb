@@ -3,7 +3,7 @@ name: Leonardo
 id: arduino-leonardo
 manufacturer: arduino
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega32u4
   voltage: 5.0
 variations:

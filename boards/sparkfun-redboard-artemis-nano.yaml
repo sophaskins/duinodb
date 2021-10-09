@@ -3,7 +3,7 @@ name: RedBoard Artemis Nano
 id: sparkfun-redboard-artemis-nano
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: apollo3
   voltage: 3.3
   price: 14.95

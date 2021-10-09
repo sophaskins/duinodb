@@ -3,7 +3,7 @@ name: Feather 328P
 id: adafruit-feather-328p
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: atmega328p
   voltage: 3.3
   price: 12.5

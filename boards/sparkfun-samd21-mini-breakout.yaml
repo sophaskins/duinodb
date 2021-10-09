@@ -3,7 +3,7 @@ name: SAMD21 Mini Breakout
 id: sparkfun-samd21-mini-breakout
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
   price: 20.95

@@ -3,7 +3,7 @@ name: Feather M0 RadioFruit Packet 433 MHz
 id: adafruit-feather-m0-radiofruit-packet-433-mhz
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: samd21
   voltage: 3.3
   price: 24.95

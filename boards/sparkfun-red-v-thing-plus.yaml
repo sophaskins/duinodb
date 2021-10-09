@@ -3,7 +3,7 @@ name: RED-V Thing Plus
 id: sparkfun-red-v-thing-plus
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: fe310
   voltage: 3.3
   price: 29.95

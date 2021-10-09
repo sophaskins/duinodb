@@ -3,7 +3,7 @@ name: Feather 2040
 id: adafruit-feather-2040
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: rp2040
   voltage: 3.3
   price: 11.95

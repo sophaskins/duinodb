@@ -3,7 +3,7 @@ name: Nano 33 BLE Sense
 id: arduino-nano-33-ble-sense
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: nrf52840
   voltage: 3.3
 variations:

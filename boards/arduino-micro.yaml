@@ -3,7 +3,7 @@ name: Micro
 id: arduino-micro
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega32u4
   voltage: 5.0
 variations:

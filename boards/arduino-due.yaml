@@ -3,7 +3,7 @@ name: Due
 id: arduino-due
 manufacturer: arduino
 common:
-  pinout: Arduino Mega
+  pinout: arduino-mega
   soc: sam3x8e
   voltage: 3.3
 variations:

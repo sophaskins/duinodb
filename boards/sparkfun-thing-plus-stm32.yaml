@@ -3,7 +3,7 @@ name: Thing Plus STM32
 id: sparkfun-thing-plus-stm32
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: stm32f405
   voltage: 3.3
   price: 29.95

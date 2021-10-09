@@ -3,7 +3,7 @@ name: RedBoard Turbo
 id: sparkfun-redboard-turbo
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: samd21
   voltage: 3.3
   price: 24.95

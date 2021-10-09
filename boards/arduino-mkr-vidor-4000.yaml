@@ -3,7 +3,7 @@ name: MKR Vidor 4000
 id: arduino-mkr-vidor-4000
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
   price: 72.4

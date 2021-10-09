@@ -3,7 +3,7 @@ name: Nano
 id: arduino-nano
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega328
   voltage: 5.0
   price: 20.7

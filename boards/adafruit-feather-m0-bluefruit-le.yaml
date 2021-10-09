@@ -3,7 +3,7 @@ name: Feather M0 Bluefruit LE
 id: adafruit-feather-m0-bluefruit-le
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: samd21
   voltage: 3.3
   price: 29.95

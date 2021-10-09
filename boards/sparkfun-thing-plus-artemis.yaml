@@ -3,7 +3,7 @@ name: Thing Plus Artemis
 id: sparkfun-thing-plus-artemis
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: apollo3
   voltage: 3.3
   price: 20.95

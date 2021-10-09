@@ -3,7 +3,7 @@ name: Nano Every
 id: arduino-nano-every
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega4809
   voltage: 5.0
 variations:

@@ -3,7 +3,7 @@ name: Feather 32u4 RadioFruit LoRa 900 MHz
 id: adafruit-feather-32u4-radiofruit-lora-900-mhz
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: atmega32u4
   voltage: 3.3
   price: 34.95

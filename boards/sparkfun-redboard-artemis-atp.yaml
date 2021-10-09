@@ -3,7 +3,7 @@ name: RedBoard Artemis ATP
 id: sparkfun-redboard-artemis-atp
 manufacturer: sparkfun
 common:
-  pinout: Arduino Mega
+  pinout: arduino-mega
   soc: apollo3
   voltage: 3.3
   price: 24.95

@@ -3,7 +3,7 @@ name: Thing Plus nRF9160
 id: sparkfun-thing-plus-nrf9160
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: nrf9160
   voltage: 3.3
   price: 129.95

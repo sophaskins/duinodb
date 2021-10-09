@@ -3,7 +3,7 @@ name: RedBoard Artemis
 id: sparkfun-redboard-artemis
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: apollo3
   voltage: 3.3
   price: 19.95

@@ -3,7 +3,7 @@ name: Qduino Mini
 id: sparkfun-qduino-mini
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega32u4
   voltage: 3.3
   price: 33.5

@@ -3,7 +3,7 @@ name: RedBoard Qwiic
 id: sparkfun-redboard-qwiic
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega328
   voltage: 5.0
   price: 19.95

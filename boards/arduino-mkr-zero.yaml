@@ -3,7 +3,7 @@ name: MKR Zero
 id: arduino-mkr-zero
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
   price: 25.2

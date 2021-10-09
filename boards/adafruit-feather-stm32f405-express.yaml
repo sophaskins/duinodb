@@ -3,7 +3,7 @@ name: Feather STM32F405 Express
 id: adafruit-feather-stm32f405-express
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: stm32f405
   voltage: 3.3
   price: 39.95

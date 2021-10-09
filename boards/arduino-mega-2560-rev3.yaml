@@ -3,7 +3,7 @@ name: Mega 2560 Rev3
 id: arduino-mega-2560-rev3
 manufacturer: arduino
 common:
-  pinout: Arduino Mega
+  pinout: arduino-mega
   soc: atmega2560
   voltage: 5.0
   price: 40.3

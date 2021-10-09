@@ -3,7 +3,7 @@ name: RedBoard Plus
 id: sparkfun-redboard-plus
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega328p
   voltage: 5.0
   price: 19.95

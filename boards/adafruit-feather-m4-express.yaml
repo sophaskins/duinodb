@@ -3,7 +3,7 @@ name: Feather M4 Express
 id: adafruit-feather-m4-express
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: samd51j19
   voltage: 3.3
   price: 22.95

@@ -3,7 +3,7 @@ name: FreeSoC2
 id: sparkfun-freesoc2
 manufacturer: sparkfun
 common:
-  pinout: Arduino Mega
+  pinout: arduino-mega
   soc: cy8c5888axi-lp096
   voltage: 3.3
   price: 99.95

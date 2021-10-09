@@ -3,7 +3,7 @@ name: RED-V RedBoard
 id: sparkfun-red-v-redboard
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: fe310
   voltage: 3.3
   price: 39.95

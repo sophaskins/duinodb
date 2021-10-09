@@ -3,7 +3,7 @@ name: Feather nRF52 Pro w/ myNewt
 id: adafruit-feather-nrf52-pro-w--mynewt
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: nrf52832
   voltage: 3.3
   price: 27.5

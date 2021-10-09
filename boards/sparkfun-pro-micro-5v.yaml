@@ -3,7 +3,7 @@ name: Pro Micro 5V
 id: sparkfun-pro-micro-5v
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega32u4
   voltage: 5.0
   price: 17.95

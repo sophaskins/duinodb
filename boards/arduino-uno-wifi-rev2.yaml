@@ -3,7 +3,7 @@ name: Uno Wifi Rev2
 id: arduino-uno-wifi-rev2
 manufacturer: arduino
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega4809
   voltage: 5.0
   price: 44.8

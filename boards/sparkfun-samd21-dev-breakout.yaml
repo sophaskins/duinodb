@@ -3,7 +3,7 @@ name: SAMD21 Dev Breakout
 id: sparkfun-samd21-dev-breakout
 manufacturer: sparkfun
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: samd21
   voltage: 3.3
   price: 27.5

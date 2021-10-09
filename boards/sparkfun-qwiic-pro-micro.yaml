@@ -3,7 +3,7 @@ name: Qwiic Pro Micro
 id: sparkfun-qwiic-pro-micro
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega32u4
   voltage: 3.3
   price: 19.95

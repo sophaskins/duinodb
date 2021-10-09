@@ -3,7 +3,7 @@ name: "Y\xFAn Rev2"
 id: "arduino-y\xFAn-rev2"
 manufacturer: arduino
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega32u4
   voltage: 5.0
   price: 56.4

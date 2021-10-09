@@ -3,7 +3,7 @@ name: MKR Wifi 1010
 id: arduino-mkr-wifi-1010
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
   price: 32.1

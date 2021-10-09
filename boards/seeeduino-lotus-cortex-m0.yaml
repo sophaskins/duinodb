@@ -3,7 +3,7 @@ name: Seeeduino Lotus Cortex M0
 id: seeeduino-lotus-cortex-m0
 manufacturer: seeed-studio
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: samd21
   voltage: 3.3
   headers: soldered-socket

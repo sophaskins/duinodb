@@ -3,7 +3,7 @@ name: Nano RP2040 Connect
 id: arduino-nano-rp2040-connect
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: rp2040
   voltage: 3.3
   externalFlash: 16 MB

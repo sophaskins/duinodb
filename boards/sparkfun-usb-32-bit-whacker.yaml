@@ -3,7 +3,7 @@ name: USB 32-Bit Whacker
 id: sparkfun-usb-32-bit-whacker
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: pic32mx795
   voltage: 3.3
   price: 47.5

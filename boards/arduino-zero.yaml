@@ -3,7 +3,7 @@ name: Zero
 id: arduino-zero
 manufacturer: arduino
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: samd21
   voltage: 3.3
   price: 39.5

@@ -3,7 +3,7 @@ name: Feather nRF52 Bluefruit LE
 id: adafruit-feather-nrf52-bluefruit-le
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: nrf52832
   voltage: 3.3
   price: 24.95

@@ -3,7 +3,7 @@ name: Seeeduino Crypto
 id: seeeduino-crypto
 manufacturer: seeed-studio
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega4809
   voltage: 5
   headers: soldered-socket

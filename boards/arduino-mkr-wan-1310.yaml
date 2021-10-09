@@ -3,7 +3,7 @@ name: MKR WAN 1310
 id: arduino-mkr-wan-1310
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
   price: 38.0

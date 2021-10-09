@@ -3,7 +3,7 @@ name: Seeeduino Lotus V1.1
 id: seeeduino-lotus-v1.1
 manufacturer: seeed-studio
 common:
-  pinout: Arduino
+  pinout: arduino
   soc: atmega32u4
   voltage: 5
   headers: soldered-socket

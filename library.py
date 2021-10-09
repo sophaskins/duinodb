@@ -22,6 +22,9 @@ def load_manufacturers():
 def load_socs():
     return load_items("socs")
 
+def load_pinouts():
+    return load_items("pinouts")
+
 def load_flattened(kind):
     items = load_items(kind)
     flattened = {}

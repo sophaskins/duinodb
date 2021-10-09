@@ -3,7 +3,7 @@ name: Seeeduino Mega
 id: seeeduino-mega
 manufacturer: seeed-studio
 common:
-  pinout: Arduino Mega
+  pinout: arduino-mega
   soc: atmega2560
   voltage: 5
   headers: soldered-socket

@@ -3,7 +3,7 @@ name: Feather HUZZAH32
 id: adafruit-feather-huzzah32
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: esp32
   voltage: 3.3
   externalFlash: 4 MB

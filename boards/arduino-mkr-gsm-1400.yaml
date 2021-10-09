@@ -3,7 +3,7 @@ name: MKR GSM 1400
 id: arduino-mkr-gsm-1400
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
   price: 68.9

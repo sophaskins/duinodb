@@ -3,7 +3,7 @@ name: MKR Wifi 1000
 id: arduino-mkr-wifi-1000
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
 variations:

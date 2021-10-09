@@ -3,7 +3,7 @@ name: Thing Plus SAMD51
 id: sparkfun-thing-plus-samd51
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd51j20
   voltage: 3.3
   price: 19.95

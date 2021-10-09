@@ -3,7 +3,7 @@ name: Nano 33 IoT
 id: arduino-nano-33-iot
 manufacturer: arduino
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: samd21
   voltage: 3.3
 variations:

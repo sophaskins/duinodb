@@ -6,6 +6,12 @@ chip_families = library.load_chip_families()
 manufacturers = library.load_manufacturers()
 flattened_socs = library.load_flattened_socs()
 flattened_boards = library.load_flattened_boards()
+pinouts = library.load_pinouts()
+
+def validate_references(referrers, referents, field):
+    for _, referrer in referrers.items():
+        if referrer[field] not in referents:
+            print("{} {} refers to non-existent {}: {}".format(referrer["kind"], referrer["id"], field, referrer[field]))
 
 def validate_board_soc(board, flattened_socs):
     if "variations" in board:
@@ -29,3 +35,5 @@ def validate_board_manufacturers(board, manufacturers):
 for _, board in boards.items():
     validate_board_soc(board, flattened_socs)
     validate_board_manufacturers(board, manufacturers)
+
+validate_references(flattened_boards, pinouts, "pinout")

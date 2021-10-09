@@ -3,7 +3,7 @@ name: Pro Micro 3.3V
 id: sparkfun-pro-micro-3.3v
 manufacturer: sparkfun
 common:
-  pinout: Breadboardable
+  pinout: breadboardable
   soc: atmega32u4
   voltage: 3.3
   price: 17.95

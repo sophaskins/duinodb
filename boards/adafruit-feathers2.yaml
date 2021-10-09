@@ -3,7 +3,7 @@ name: FeatherS2
 id: adafruit-feathers2
 manufacturer: adafruit
 common:
-  pinout: Feather
+  pinout: feather
   soc: esp32-s2
   voltage: 3.3
   price: 24.95
