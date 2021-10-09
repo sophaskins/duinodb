@@ -1,7 +1,7 @@
 kind: Board
 name: Seeed XIAO RP2040
 # note that on Seeed Studio's website, the Xiao RP2040 is _not_ referred to as "Seeeduino" directly
-id: seeed-xiao-2040
+id: seeed-xiao-rp2040
 manufacturer: seeed-studio
 common:
   pinout: breadboardable

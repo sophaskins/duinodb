@@ -1,5 +1,6 @@
 import yaml
 import glob
+import os
 
 def load_items(kind):
     items = {}
@@ -7,6 +8,13 @@ def load_items(kind):
     for filename in filenames:
         with open (filename, "r") as f:
             data = yaml.load(f, Loader=yaml.SafeLoader)
+
+            # filename (minus yaml) should match the id of the base resource
+            # in order to help us naturally avoid id collisions
+            filename_bit_that_should_match_id = os.path.basename(filename[:-5])
+            if filename_bit_that_should_match_id != data["id"]:
+                print("File {} contains a resource whose id is \"{}\", instead of the expected \"{}\"".format(filename, data["id"], filename_bit_that_should_match_id))
+
             items[data["id"]] = data
     return items
 
@@ -38,9 +46,15 @@ def load_flattened(kind):
         if "variations" in item:
             del base["variations"]
             for variation in item["variations"]:
-                flattened[variation["id"]] = (base | common) | variation
+                prospective_id = variation["id"]
+                if prospective_id in flattened:
+                    print("WARNING: multiple objects/variations ({}) with id: {}".format(item["kind"], prospective_id))
+                flattened[prospective_id] = (base | common) | variation
         else:
-            flattened[item["id"]] = base | common
+            prospective_id = item["id"]
+            if prospective_id in flattened:
+                print("WARNING: multiple objects/variations with id")
+            flattened[prospective_id] = base | common
 
     return flattened
 
