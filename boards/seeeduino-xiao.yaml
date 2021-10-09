@@ -1,0 +1,17 @@
+kind: Board
+name: Seeeduino XIAO
+id: seeeduino-xiao
+manufacturer: seeed-studio
+common:
+  pinout: breadboardable
+  soc: samd21
+  voltage: 3.3
+variations:
+- id: seedunino-xiao
+  headers: unsoldered
+  price: 5.40
+  link: https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html
+- id: seeedunio-xiao-pre-soldered
+  headers: presoldered-pin
+  price: 6.50
+  link: https://www.seeedstudio.com/Seeeduino-XIAO-Pre-Soldered-p-4747.html

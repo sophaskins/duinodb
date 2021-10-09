@@ -1,0 +1,12 @@
+kind: Board
+name: Seeed XIAO RP2040
+id: seeed-xiao-2040
+manufacturer: seeed-studio
+common:
+  pinout: breadboardable
+  soc: rp2040
+  voltage: 3.3
+  headers: unsoldered
+  price: 5.40
+  link: https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+  externalFlash: 2MB
