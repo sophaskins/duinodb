@@ -6,6 +6,6 @@ common:
   pinout: arduino
   soc: samd21
   voltage: 3.3
-  headers: soldered-socket
+  headers: presoldered-socket
   price: 9.90
   link: https://www.seeedstudio.com/Seeeduino-Lotus-Cortex-M0-p-2896.html

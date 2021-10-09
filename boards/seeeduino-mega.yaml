@@ -6,6 +6,6 @@ common:
   pinout: arduino-mega
   soc: atmega2560
   voltage: 5
-  headers: soldered-socket
+  headers: presoldered-socket
   price: 43
   link: https://www.seeedstudio.com/Seeeduino-Mega-ATmega2560.html

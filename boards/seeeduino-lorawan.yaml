@@ -6,7 +6,7 @@ common:
   pinout: arduino
   soc: samd21
   voltage: 3.3
-  headers: soldered-socket
+  headers: presoldered-socket
 variations:
 - id: seeeduino-lorawan
   price: 39

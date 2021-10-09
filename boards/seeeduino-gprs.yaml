@@ -6,6 +6,6 @@ common:
   pinout: arduino
   soc: atmega32u4
   voltage: 5
-  headers: soldered-socket
+  headers: presoldered-socket
   price: 19.90
   link: https://www.seeedstudio.com/Seeeduino-GPRS-p-1909.html

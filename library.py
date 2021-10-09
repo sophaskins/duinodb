@@ -33,6 +33,9 @@ def load_socs():
 def load_pinouts():
     return load_items("pinouts")
 
+def load_headers():
+    return load_items("headers")
+
 def load_flattened(kind):
     items = load_items(kind)
     flattened = {}

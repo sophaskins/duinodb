@@ -6,6 +6,6 @@ common:
   pinout: arduino
   soc: atmega4809
   voltage: 5
-  headers: soldered-socket
+  headers: presoldered-socket
   price: 21.90
   link: https://www.seeedstudio.com/Seeeduino-Crypto-ATmega4809-ECC608-p-4369.html

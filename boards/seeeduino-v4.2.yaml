@@ -6,6 +6,6 @@ common:
   pinout: arduino
   soc: atmega328p
   voltage: 3.3
-  headers: soldered-socket
+  headers: presoldered-socket
   price: 7.60
   link: https://www.seeedstudio.com/Seeeduino-V4-2-p-2517.html
